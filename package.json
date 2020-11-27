@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://bitbucket.org/ydv-all/copilot-ui.git"
+    "url": "git+https://github.com/sravindravmd/ui-lib.git\n"
   },
   "files": [
     "dist"
@@ -26,7 +26,7 @@
     "build": "rm -rf dist && NODE_ENV=production babel src -d dist --copy-files && del dist/**/*.test.js dist/**/*.stories.js dist/**/__snapshots__",
     "release": "np"
   },
-  "author": "Fabric",
+  "author": "Ravi",
   "license": "IST",
   "dependencies": {
     "@storybook/addon-viewport": "^6.1.6",

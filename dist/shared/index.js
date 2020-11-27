@@ -22,7 +22,7 @@ var _media = _interopRequireDefault(require("./media"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-const FONT_NAMES = ['h1', 'h2', 'h3', 'subtitle1', 'subtitle2', 'subtitle3', 'body', 'kicker', 'caption', 'link'];
+const FONT_NAMES = ['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'subtitle1', 'subtitle2', 'subtitle3', 'body', 'kicker', 'caption', 'link'];
 FONT_NAMES.forEach(name => {
   const css = [];
   Object.keys(_theme.default.typography[name]).forEach(styleKey => {

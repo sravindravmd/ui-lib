@@ -58,75 +58,96 @@ var _default = {
     fontSize: 16,
     //Headline 1,2,3
     h1: {
-      fontSize: '3.75rem',
+      fontSize: '60px',
       fontFamily: 'Gilroy-Bold',
       letterSpacing: 'normal',
-      lineHeight: '4.125rem',
+      lineHeight: '66px',
       fontStyle: 'normal'
     },
     h2: {
-      fontSize: '3rem',
+      fontSize: '48px',
       fontFamily: 'Gilroy-Bold',
       letterSpacing: 'normal',
-      lineHeight: '3.25rem',
+      lineHeight: '52.8px',
       fontStyle: 'normal'
     },
     h3: {
-      fontSize: '2rem',
+      fontSize: '32px',
       fontFamily: 'Gilroy-Bold',
       letterSpacing: 'normal',
-      lineHeight: '2.375rem',
+      lineHeight: '38.4px',
+      fontStyle: 'normal'
+    },
+    h4: {
+      fontSize: '18px',
+      fontFamily: 'Gilroy-Medium',
+      letterSpacing: 'normal',
+      lineHeight: '21.6px',
+      fontStyle: 'normal'
+    },
+    h5: {
+      fontSize: '16px',
+      fontFamily: 'Gilroy-Medium',
+      letterSpacing: 'normal',
+      lineHeight: '18px',
+      fontStyle: 'normal'
+    },
+    h6: {
+      fontSize: '13px',
+      fontFamily: 'Gilroy-Medium',
+      letterSpacing: '2%',
+      lineHeight: '16px',
       fontStyle: 'normal'
     },
     //subtitle 1,2,3
     subtitle1: {
-      fontSize: '2rem',
-      fontFamily: 'Gilroy-SemiBold',
+      fontSize: '32px',
+      fontFamily: 'Gilroy-Medium',
       letterSpacing: 'normal',
-      lineHeight: '2.375rem',
+      lineHeight: '38.4px',
       fontStyle: 'normal'
     },
     subtitle2: {
-      fontSize: '1.5rem',
+      fontSize: '24px',
       fontFamily: 'Gilroy-SemiBold',
       letterSpacing: 'normal',
-      lineHeight: '1.75rem',
+      lineHeight: '28.8px',
       fontStyle: 'normal'
     },
     subtitle3: {
-      fontSize: '1.3125rem',
+      fontSize: '21px',
       fontFamily: 'Gilroy-SemiBold',
       letterSpacing: '0.5px',
-      lineHeight: '1.5625rem',
+      lineHeight: '24.61px',
       fontStyle: 'normal'
     },
     body: {
-      fontSize: '1.125rem',
+      fontSize: '18px',
       fontFamily: 'Gilroy-SemiBold',
       letterSpacing: 'normal',
-      lineHeight: '1.6875rem',
+      lineHeight: '27px',
       fontStyle: 'normal'
     },
     kicker: {
-      fontSize: '0.75rem',
+      fontSize: '12px',
       fontFamily: 'Gilroy-SemiBold',
-      letterSpacing: 'normal',
-      lineHeight: '0.875rem',
+      letterSpacing: '7.5%',
+      lineHeight: '14.06px',
       fontStyle: 'normal',
       textTransform: 'uppercase'
     },
     caption: {
-      fontSize: '0.75rem',
+      fontSize: '12px',
       fontFamily: 'Gilroy-Regular',
       letterSpacing: 'normal',
-      lineHeight: '1.125rem',
+      lineHeight: '18px',
       fontStyle: 'normal'
     },
     link: {
-      fontSize: '0.875rem',
+      fontSize: '14px',
       fontFamily: 'Gilroy-Medium',
       letterSpacing: 'normal',
-      lineHeight: '1rem',
+      lineHeight: '16.41px',
       fontStyle: 'normal'
     }
   },

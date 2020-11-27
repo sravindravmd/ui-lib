@@ -94,6 +94,8 @@ const ModalWrapper = (0, _styledComponents.default)('div')`
   }
 
   .modal-close-button {
+    display: inline-flex;
+    align-items: center;
     margin-right: 8px;
     border: none;
   }

@@ -1,0 +1,16 @@
+node_modules
+.idea
+*.log
+temp
+.eslintcache
+dist
+.docz
+*.psd
+coverage
+DS_Store
+storybook-static
+
+# files
+*.log
+.cache
+test-report.xml

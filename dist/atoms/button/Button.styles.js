@@ -117,9 +117,6 @@ const PrimaryCss = (0, _styledComponents.css)`
   ${({
   theme
 }) => themePrimaryMap.get(`${theme}`)};
-  ${({
-  theme
-}) => console.log('theme', themePrimaryMap.get(`${theme}`))};
 `;
 const SecondaryCss = (0, _styledComponents.css)`
   color: ${_index.theme.palette.brand.primary.charcoal};
