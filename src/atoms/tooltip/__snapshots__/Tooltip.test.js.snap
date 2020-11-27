@@ -5,16 +5,16 @@ exports[`<Tooltip/> renders tooltip with size:large and position:bottom correctl
   style="position: relative; cursor: default;"
 >
   <div
-    class="sc-bdfBwQ sc-jSgupP iKqMIT iskboO"
+    class="sc-bdfBwQ sc-jSgupP eBdUkv iskboO"
     id="1"
   >
     <div
-      class="sc-dlfnbm iYsaxR"
+      class="sc-dlfnbm kTihnT"
     >
       Tooltip
     </div>
     <div
-      class="sc-hKgILt eDUqGx"
+      class="sc-hKgILt eWZXxS"
     >
       Text for tooltip goes here and it is responsive
     </div>
@@ -27,16 +27,16 @@ exports[`<Tooltip/> renders tooltip with size:large and position:right correctly
   style="position: relative; cursor: default;"
 >
   <div
-    class="sc-bdfBwQ sc-eCssSg iKqMIT fHyGHs"
+    class="sc-bdfBwQ sc-eCssSg eBdUkv fHyGHs"
     id="1"
   >
     <div
-      class="sc-dlfnbm iYsaxR"
+      class="sc-dlfnbm kTihnT"
     >
       Tooltip
     </div>
     <div
-      class="sc-hKgILt eDUqGx"
+      class="sc-hKgILt eWZXxS"
     >
       Text for tooltip goes here and it is responsive
     </div>
@@ -49,13 +49,13 @@ exports[`<Tooltip/> renders tooltip with size:small and position at cursor corre
   style="position: relative; cursor: default;"
 >
   <div
-    class="sc-bdfBwQ sc-gsTCUz iKqMIT gfvFja"
+    class="sc-bdfBwQ sc-gsTCUz eBdUkv gfvFja"
     id="1"
     x="0"
     y="0"
   >
     <div
-      class="sc-hKgILt eDUqGx"
+      class="sc-hKgILt eWZXxS"
     >
       Text for tooltip goes here and it is responsive
     </div>

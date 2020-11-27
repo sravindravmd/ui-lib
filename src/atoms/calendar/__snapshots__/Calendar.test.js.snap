@@ -3,7 +3,7 @@
 exports[`<Calendar/> should render Calendar correctly 1`] = `
 <div>
   <div
-    class="sc-bdfBwQ bQjApy"
+    class="sc-bdfBwQ jJPJIt"
   >
     <div
       class="react-datepicker-wrapper"
@@ -68,7 +68,7 @@ exports[`<Calendar/> should render Calendar correctly 1`] = `
                     </svg>
                   </div>
                   <div
-                    class="sc-dlfnbm hRTsJc"
+                    class="sc-dlfnbm gnNamD"
                   >
                     <label
                       data-testid="year-title"
@@ -579,7 +579,7 @@ exports[`<Calendar/> should render Calendar correctly 1`] = `
 exports[`<Calendar/> should render Calendar input correctly 1`] = `
 <div>
   <div
-    class="sc-bdfBwQ bQjApy"
+    class="sc-bdfBwQ jJPJIt"
   >
     <div
       class="react-datepicker-wrapper"
@@ -601,7 +601,7 @@ exports[`<Calendar/> should render Calendar input correctly 1`] = `
 exports[`<Calendar/> should render Calendar with next month correctly 1`] = `
 <div>
   <div
-    class="sc-bdfBwQ bQjApy"
+    class="sc-bdfBwQ jJPJIt"
   >
     <div
       class="react-datepicker-wrapper"
@@ -666,7 +666,7 @@ exports[`<Calendar/> should render Calendar with next month correctly 1`] = `
                     </svg>
                   </div>
                   <div
-                    class="sc-dlfnbm hRTsJc"
+                    class="sc-dlfnbm gnNamD"
                   >
                     <label
                       data-testid="year-title"
@@ -1059,7 +1059,7 @@ exports[`<Calendar/> should render Calendar with next month correctly 1`] = `
                   <div
                     aria-disabled="false"
                     aria-label="Choose Thursday, 26 November 2020"
-                    class="react-datepicker__day day-padding react-datepicker__day--026 react-datepicker__day--today"
+                    class="react-datepicker__day day-padding react-datepicker__day--026"
                     role="button"
                     tabindex="-1"
                   >
@@ -1068,7 +1068,7 @@ exports[`<Calendar/> should render Calendar with next month correctly 1`] = `
                   <div
                     aria-disabled="false"
                     aria-label="Choose Friday, 27 November 2020"
-                    class="react-datepicker__day day-padding react-datepicker__day--027"
+                    class="react-datepicker__day day-padding react-datepicker__day--027 react-datepicker__day--today"
                     role="button"
                     tabindex="-1"
                   >
@@ -1177,7 +1177,7 @@ exports[`<Calendar/> should render Calendar with next month correctly 1`] = `
 exports[`<Calendar/> should render Calendar with previous month correctly 1`] = `
 <div>
   <div
-    class="sc-bdfBwQ bQjApy"
+    class="sc-bdfBwQ jJPJIt"
   >
     <div
       class="react-datepicker-wrapper"
@@ -1242,7 +1242,7 @@ exports[`<Calendar/> should render Calendar with previous month correctly 1`] = 
                     </svg>
                   </div>
                   <div
-                    class="sc-dlfnbm hRTsJc"
+                    class="sc-dlfnbm gnNamD"
                   >
                     <label
                       data-testid="year-title"

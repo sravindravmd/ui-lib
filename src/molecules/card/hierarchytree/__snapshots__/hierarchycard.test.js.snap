@@ -10,12 +10,12 @@ exports[`<HierarchyTreeCard/> renders HierarchyTreeCard with level=1  1`] = `
       tabindex="-1"
     >
       <div
-        class="sc-gsTCUz ekDpYt"
+        class="sc-gsTCUz bUSLSz"
       >
         Shirts
       </div>
       <div
-        class="sc-dlfnbm bMvNlL"
+        class="sc-dlfnbm bWrVlY"
       >
         12 Subcategories
       </div>
@@ -34,12 +34,12 @@ exports[`<HierarchyTreeCard/> renders HierarchyTreeCard with level=2  1`] = `
       tabindex="-1"
     >
       <div
-        class="sc-gsTCUz cHjNND"
+        class="sc-gsTCUz HYQBV"
       >
         Shirts
       </div>
       <div
-        class="sc-dlfnbm bMvNlL"
+        class="sc-dlfnbm bWrVlY"
       >
         12 Subcategories
       </div>
@@ -58,12 +58,12 @@ exports[`<HierarchyTreeCard/> renders HierarchyTreeCard with level=3  1`] = `
       tabindex="-1"
     >
       <div
-        class="sc-gsTCUz jmnDmG"
+        class="sc-gsTCUz kooqDR"
       >
         Shirts
       </div>
       <div
-        class="sc-dlfnbm bMvNlL"
+        class="sc-dlfnbm bWrVlY"
       >
         12 Subcategories
       </div>

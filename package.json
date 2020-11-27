@@ -1,7 +1,7 @@
 {
   "name": "@ravindra/ui-lib",
   "version": "1.2.3",
-  "description": "Fabric: Shared Copilot UI Library",
+  "description": "Ravindra: Shared  UI Library",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
@@ -87,21 +87,5 @@
   },
   "standard": {
     "parser": "babel-eslint"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
-  "lint-staged": {
-    "*.+(js|jsx)": [
-      "eslint --fix",
-      "jest --bail --findRelatedTests",
-      "git add"
-    ],
-    "*.+(json|css|md)": [
-      "prettier --write",
-      "git add"
-    ]
   }
 }

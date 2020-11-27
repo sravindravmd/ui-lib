@@ -15,7 +15,7 @@ exports[`<CarouselCard/> renders CarouselCard correctly 1`] = `
         src="https://images.unsplash.com/photo-1603881568692-1429786f5ce1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
       />
       <div
-        class="sc-dlfnbm bbMzFp"
+        class="sc-dlfnbm hFkLbG"
       >
         <div
           class="sc-hKgILt bDrTGL"
@@ -48,7 +48,7 @@ exports[`<CarouselCard/> should render CarouselCard after click 1`] = `
         src="https://images.unsplash.com/photo-1603881568692-1429786f5ce1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
       />
       <div
-        class="sc-dlfnbm bbMzFp"
+        class="sc-dlfnbm hFkLbG"
       >
         <div
           class="sc-hKgILt bDrTGL"

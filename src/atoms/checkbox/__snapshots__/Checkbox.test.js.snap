@@ -30,7 +30,7 @@ exports[`<Checkbox/> should render checkbox with default props 1`] = `
       value="John Doe"
     />
     <span
-      class="sc-gsTCUz hTKKtX"
+      class="sc-gsTCUz dDFyBM"
     >
       Name
     </span>
@@ -68,7 +68,7 @@ exports[`<Checkbox/> should render checkbox with external prop values 1`] = `
       value="John Doe"
     />
     <span
-      class="sc-gsTCUz hTKKtX"
+      class="sc-gsTCUz dDFyBM"
     >
       Name
     </span>
@@ -106,7 +106,7 @@ exports[`<Checkbox/> should render checkbox with external prop values 2`] = `
       value="John Doe"
     />
     <span
-      class="sc-gsTCUz hTKKtX"
+      class="sc-gsTCUz dDFyBM"
     >
       Name
     </span>
@@ -146,7 +146,7 @@ exports[`<Checkbox/> should render disabled checkbox 1`] = `
       value="John Doe"
     />
     <span
-      class="sc-gsTCUz hTKKtX"
+      class="sc-gsTCUz dDFyBM"
     >
       Name
     </span>

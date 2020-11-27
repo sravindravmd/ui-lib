@@ -10,15 +10,15 @@ exports[`<RootCategoryCard/> should render RootCategoryCard after click  1`] = `
       tabindex="-1"
     >
       <div
-        class="sc-gsTCUz kkDvDH"
+        class="sc-gsTCUz dbgDwb"
       >
         <div
-          class="sc-dlfnbm looVed"
+          class="sc-dlfnbm GbhKX"
         >
           Shirts
         </div>
         <div
-          class="sc-hKgILt cLQdjm"
+          class="sc-hKgILt cUJNqp"
         >
           Updated 9/8 12:15PM PST
         </div>
@@ -38,15 +38,15 @@ exports[`<RootCategoryCard/> should render RootCategoryCard correctly  1`] = `
       tabindex="-1"
     >
       <div
-        class="sc-gsTCUz kkDvDH"
+        class="sc-gsTCUz dbgDwb"
       >
         <div
-          class="sc-dlfnbm looVed"
+          class="sc-dlfnbm GbhKX"
         >
           Shirts
         </div>
         <div
-          class="sc-hKgILt cLQdjm"
+          class="sc-hKgILt cUJNqp"
         >
           Updated 9/8 12:15PM PST
         </div>

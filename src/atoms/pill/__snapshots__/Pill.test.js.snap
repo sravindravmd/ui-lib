@@ -3,7 +3,7 @@
 exports[`<Pill/> renders Pill component with variant:alert correctly 1`] = `
 <div>
   <span
-    class="sc-bdfBwQ gPJauu"
+    class="sc-bdfBwQ fFEcdn"
   >
     Pill Label
   </span>
@@ -13,7 +13,7 @@ exports[`<Pill/> renders Pill component with variant:alert correctly 1`] = `
 exports[`<Pill/> renders Pill component with variant:success correctly 1`] = `
 <div>
   <span
-    class="sc-bdfBwQ wQEWy"
+    class="sc-bdfBwQ hjkiSL"
   >
     Pill Label
   </span>
@@ -23,7 +23,7 @@ exports[`<Pill/> renders Pill component with variant:success correctly 1`] = `
 exports[`<Pill/> renders Pill component with variant:warning correctly 1`] = `
 <div>
   <span
-    class="sc-bdfBwQ jHAFYG"
+    class="sc-bdfBwQ emjRfH"
   >
     Pill Label
   </span>

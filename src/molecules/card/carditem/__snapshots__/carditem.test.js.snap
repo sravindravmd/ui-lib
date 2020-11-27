@@ -3,7 +3,7 @@
 exports[`<CardItem/> renders Card Item with valid variant correctly 1`] = `
 <div>
   <div
-    class="sc-hKgILt fliuLD"
+    class="sc-hKgILt lmlMIg"
   >
     <div
       class="sc-gsTCUz zWUzB"
@@ -39,7 +39,7 @@ exports[`<CardItem/> renders Card Item with valid variant correctly 1`] = `
 exports[`<CardItem/> renders Category Card Item correctly 1`] = `
 <div>
   <div
-    class="sc-jrAGrp bsjwUw"
+    class="sc-jrAGrp jHKJFL"
   >
     <div
       class="sc-kEjbxe bLSkeB"
@@ -58,7 +58,7 @@ exports[`<CardItem/> renders Category Card Item correctly 1`] = `
 exports[`<CardItem/> renders Detail Card Item correctly 1`] = `
 <div>
   <div
-    class="sc-hKgILt fliuLD"
+    class="sc-hKgILt lmlMIg"
   >
     <div
       class="sc-gsTCUz zWUzB"
@@ -105,7 +105,7 @@ exports[`<CardItem/> renders General Card Item with action correctly 1`] = `
       />
     </div>
     <div
-      class="sc-gKsewC jmUenl"
+      class="sc-gKsewC bPmzSa"
     >
       <div
         class="sc-iBPRYJ eHHpwo"
@@ -156,7 +156,7 @@ exports[`<CardItem/> renders General Card Item without action correctly 1`] = `
       />
     </div>
     <div
-      class="sc-gKsewC gaeMlE"
+      class="sc-gKsewC beuIn"
     >
       <div
         class="sc-iBPRYJ eHHpwo"

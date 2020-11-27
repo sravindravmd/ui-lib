@@ -10,7 +10,7 @@ exports[`<QuickAccessCard/> renders QuickAccessCard correctly  1`] = `
       tabindex="-1"
     >
       <div
-        class="sc-gsTCUz jOlSWj"
+        class="sc-gsTCUz cSuJme"
       >
         <img
           alt="card-img"
@@ -18,7 +18,7 @@ exports[`<QuickAccessCard/> renders QuickAccessCard correctly  1`] = `
         />
       </div>
       <div
-        class="sc-dlfnbm hdGDCJ"
+        class="sc-dlfnbm bEflta"
       >
         <div
           class="sc-hKgILt cOJQlc"
@@ -46,7 +46,7 @@ exports[`<QuickAccessCard/> should render QuickAccessCard after click 1`] = `
       tabindex="-1"
     >
       <div
-        class="sc-gsTCUz jOlSWj"
+        class="sc-gsTCUz cSuJme"
       >
         <img
           alt="card-img"
@@ -54,7 +54,7 @@ exports[`<QuickAccessCard/> should render QuickAccessCard after click 1`] = `
         />
       </div>
       <div
-        class="sc-dlfnbm hdGDCJ"
+        class="sc-dlfnbm bEflta"
       >
         <div
           class="sc-hKgILt cOJQlc"

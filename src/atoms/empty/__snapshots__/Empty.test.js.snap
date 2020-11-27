@@ -3,7 +3,7 @@
 exports[`<Empty/> renders empty placeholder 1`] = `
 <div>
   <div
-    class="sc-bdfBwQ hxWtuT empty"
+    class="sc-bdfBwQ fmezKT empty"
   >
     <div
       class="empty-inner"

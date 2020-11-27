@@ -3,7 +3,7 @@
 exports[`<Global Header/> renders 1`] = `
 <div>
   <header
-    class="sc-bdfBwQ cytjPI"
+    class="sc-bdfBwQ gzqjGw"
   >
     <div
       class="inner"
@@ -456,17 +456,17 @@ exports[`<Global Header/> renders 1`] = `
                       class="sc-fubCfw eUGLku"
                     >
                       <div
-                        class="sc-pFZIQ hdkyvP"
+                        class="sc-pFZIQ eFYcTB"
                       >
                         All
                       </div>
                       <div
-                        class="sc-pFZIQ hxcPvT"
+                        class="sc-pFZIQ jJNJJN"
                       >
                         Mentions
                       </div>
                       <div
-                        class="sc-pFZIQ hxcPvT"
+                        class="sc-pFZIQ jJNJJN"
                       >
                         Fabric Updates
                       </div>

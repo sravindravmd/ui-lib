@@ -6,7 +6,7 @@ exports[`<Tab/> renders horizontal tab correctly 1`] = `
     class="sc-bdfBwQ dmxWwQ"
   >
     <div
-      class="sc-gsTCUz jpQJtI"
+      class="sc-gsTCUz iFpzxu"
     >
       ALL Items
     </div>
@@ -14,12 +14,12 @@ exports[`<Tab/> renders horizontal tab correctly 1`] = `
       class="sc-dlfnbm btJzNe"
     >
       <div
-        class="sc-hKgILt bfibsu"
+        class="sc-hKgILt bWZNvk"
       >
         Performance
       </div>
       <div
-        class="sc-hKgILt ffkWqa"
+        class="sc-hKgILt kwxITU"
       >
         Recent Activity
       </div>
@@ -39,7 +39,7 @@ exports[`<Tab/> renders horizontal tab with TabItem disabled 1`] = `
     class="sc-bdfBwQ dmxWwQ"
   >
     <div
-      class="sc-gsTCUz jpQJtI"
+      class="sc-gsTCUz iFpzxu"
     >
       Tooltip
     </div>
@@ -47,13 +47,13 @@ exports[`<Tab/> renders horizontal tab with TabItem disabled 1`] = `
       class="sc-dlfnbm btJzNe"
     >
       <div
-        class="sc-hKgILt jmKVQt"
+        class="sc-hKgILt iiZBkb"
         disabled=""
       >
         Performance
       </div>
       <div
-        class="sc-hKgILt ffkWqa"
+        class="sc-hKgILt kwxITU"
       >
         Recent Activity
       </div>
@@ -77,14 +77,14 @@ exports[`<Tab/> renders vertical tab correctly 1`] = `
       class="sc-dlfnbm frgbOH"
     >
       <div
-        class="sc-hKgILt cpnLtq"
+        class="sc-hKgILt iTCrqA"
       >
         <span>
           Performance
         </span>
       </div>
       <div
-        class="sc-hKgILt gdkngY"
+        class="sc-hKgILt UdVBa"
       >
         <span>
           Recent Activity

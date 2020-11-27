@@ -3,7 +3,7 @@
 exports[`<Switch/> renders Switch with initialState:false correctly 1`] = `
 <div>
   <label
-    class="sc-bdfBwQ jKsLgj"
+    class="sc-bdfBwQ eQApsv"
   >
     <span
       class="sc-gsTCUz edZUkl"
@@ -30,7 +30,7 @@ exports[`<Switch/> renders Switch with initialState:false correctly 1`] = `
 exports[`<Switch/> renders Switch with initialState:true correctly 1`] = `
 <div>
   <label
-    class="sc-bdfBwQ jKsLgj"
+    class="sc-bdfBwQ eQApsv"
   >
     <span
       class="sc-gsTCUz edZUkl"

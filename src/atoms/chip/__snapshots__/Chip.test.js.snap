@@ -3,7 +3,7 @@
 exports[`<Chip/> renders Chip component correctly 1`] = `
 <div>
   <button
-    class="sc-bdfBwQ jTWjxr"
+    class="sc-bdfBwQ gEavmc"
   >
     Chip Label
     <span

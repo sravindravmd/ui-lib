@@ -3,7 +3,7 @@
 exports[`<Link/> renders correctly 1`] = `
 <div>
   <a
-    class="sc-bdfBwQ fZAsUk"
+    class="sc-bdfBwQ gWHcFY"
     href="/"
   >
     I am a Link

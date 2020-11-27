@@ -1,19 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testExecutions version="1">
-  <file path="/Users/ravindras/Documents/fabric/codebase/copilot-ui-library/src/atoms/button/Button.test.js">
-    <testCase name="Button renders primary Button correctly with default props" duration="28"/>
+  <file path="/Users/ravindras/Documents/ui-library/src/atoms/buttonWithIcon/ButtonWithIcon.test.js">
+    <testCase name="Button renders primary Button + Icon correctly with default props" duration="46"/>
+    <testCase name="Button renders primary Button correctly with size:small, theme: dark, isPrimary:true, iconPosition: right, icon: DownArrow, emphasis:high" duration="2"/>
+    <testCase name="Button renders primary Button correctly with size:small, theme: light, isPrimary:false, iconPosition: right, icon: Add, emphasis:low" duration="31"/>
+    <testCase name="Button Render Icon Button with isRoundIcon: true, isPrimary: true" duration="6"/>
+    <testCase name="Button Render Icon Button with isRoundIcon: true, isPrimary: false, emphasis: high, theme: light" duration="6"/>
+    <testCase name="Button Render Icon Button with isRoundIcon: true, isPrimary: false, emphasis: low, theme: light" duration="1"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/atoms/checkbox/Checkbox.test.js">
+    <testCase name="&lt;Checkbox/&gt; should render checkbox with default props" duration="139"/>
+    <testCase name="&lt;Checkbox/&gt; should render checkbox with external prop values" duration="82"/>
+    <testCase name="&lt;Checkbox/&gt; should render disabled checkbox" duration="27"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/molecules/card/carditem/carditem.test.js">
+    <testCase name="&lt;CardItem/&gt; renders Detail Card Item correctly" duration="110"/>
+    <testCase name="&lt;CardItem/&gt; renders General Card Item without action correctly" duration="26"/>
+    <testCase name="&lt;CardItem/&gt; renders General Card Item with action correctly" duration="55"/>
+    <testCase name="&lt;CardItem/&gt; renders Category Card Item correctly" duration="29"/>
+    <testCase name="&lt;CardItem/&gt; renders Card Item with valid variant correctly" duration="18"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/atoms/tab/Tab.test.js">
+    <testCase name="&lt;Tab/&gt; renders horizontal tab correctly" duration="126"/>
+    <testCase name="&lt;Tab/&gt; renders vertical tab correctly" duration="67"/>
+    <testCase name="&lt;Tab/&gt; renders horizontal tab with TabItem disabled" duration="14"/>
+    <testCase name="&lt;Tab/&gt; render selected tab content correctly" duration="56"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/atoms/tooltip/Tooltip.test.js">
+    <testCase name="&lt;Tooltip/&gt; renders tooltip with size:large and position:right correctly" duration="93"/>
+    <testCase name="&lt;Tooltip/&gt; renders tooltip with size:large and position:bottom correctly" duration="9"/>
+    <testCase name="&lt;Tooltip/&gt; renders tooltip with size:small and position at cursor correctly" duration="43"/>
+    <testCase name="&lt;Tooltip/&gt; show tooltip on mouse enter event" duration="37"/>
+    <testCase name="&lt;Tooltip/&gt; show small tooltip on mouse move event" duration="14"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/molecules/card/rootcategory/rootcategorycard.test.js">
+    <testCase name="&lt;RootCategoryCard/&gt; should render RootCategoryCard correctly " duration="60"/>
+    <testCase name="&lt;RootCategoryCard/&gt; should render RootCategoryCard after click " duration="22"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/molecules/snake-bar/Snakebar.test.js">
+    <testCase name="&lt;Snake Bar/&gt; renders success ui" duration="104"/>
+    <testCase name="&lt;Snake Bar/&gt; renders alert ui" duration="18"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/molecules/dropdown/Dropdown.test.js">
+    <testCase name="&lt;Dropdown/&gt; renders correctly" duration="77"/>
+    <testCase name="&lt;Dropdown/&gt; renders correctly when isDefault is false" duration="52"/>
+    <testCase name="&lt;Dropdown/&gt; check for Dropdown options lenght" duration="138"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/organisms/tables/Table.test.js">
+    <testCase name="&lt;Table/&gt; render Table component correctly" duration="774"/>
+    <testCase name="&lt;Table/&gt; render Table correctly when isTableSortable is true" duration="296"/>
+    <testCase name="&lt;Table/&gt; check for Table data length" duration="489"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/atoms/pill/Pill.test.js">
+    <testCase name="&lt;Pill/&gt; renders Pill component with variant:success correctly" duration="8"/>
+    <testCase name="&lt;Pill/&gt; renders Pill component with variant:warning correctly" duration="5"/>
+    <testCase name="&lt;Pill/&gt; renders Pill component with variant:alert correctly" duration="4"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/atoms/radio/Radio.test.js">
+    <testCase name="&lt;Radio/&gt; renders" duration="121"/>
+    <testCase name="&lt;Radio/&gt; check if radio is in dom" duration="28"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/atoms/switch/Switch.test.js">
+    <testCase name="&lt;Switch/&gt; renders Switch with initialState:false correctly" duration="47"/>
+    <testCase name="&lt;Switch/&gt; renders Switch with initialState:true correctly" duration="14"/>
+    <testCase name="&lt;Switch/&gt; renders Switch with initialState:true correctly" duration="23"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/organisms/modal/Modal.test.js">
+    <testCase name="&lt;Modal/&gt; render Modal component correctly" duration="214"/>
+    <testCase name="&lt;Modal/&gt; close action must call fireEvent.click" duration="45"/>
+    <testCase name="&lt;Modal/&gt; save action must call fireEvent.click" duration="21"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/organisms/header/Header.test.js">
+    <testCase name="&lt;Global Header/&gt; renders" duration="654"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/molecules/card/quickaccess/quickaccesscard.test.js">
+    <testCase name="&lt;QuickAccessCard/&gt; renders QuickAccessCard correctly " duration="75"/>
+    <testCase name="&lt;QuickAccessCard/&gt; should render QuickAccessCard after click" duration="43"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/molecules/card/carousel/carouselcard.test.js">
+    <testCase name="&lt;CarouselCard/&gt; renders CarouselCard correctly" duration="44"/>
+    <testCase name="&lt;CarouselCard/&gt; should render CarouselCard after click" duration="90"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/atoms/color/Colors.test.js">
+    <testCase name="&lt;Colors/&gt; renders Colors component correctly" duration="104"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/atoms/calendar/Calendar.test.js">
+    <testCase name="&lt;Calendar/&gt; should render Calendar input correctly" duration="314"/>
+    <testCase name="&lt;Calendar/&gt; should render Calendar correctly" duration="687"/>
+    <testCase name="&lt;Calendar/&gt; should render Calendar with next month correctly" duration="354"/>
+    <testCase name="&lt;Calendar/&gt; should render Calendar with previous month correctly" duration="713"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/molecules/card/expandable/expandablecard.test.js">
+    <testCase name="&lt;ExpandableCard/&gt; renders ExpandableCard correctly" duration="81"/>
+    <testCase name="&lt;ExpandableCard/&gt; expand card correctly" duration="99"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/atoms/chip/Chip.test.js">
+    <testCase name="&lt;Chip/&gt; renders Chip component correctly" duration="89"/>
+    <testCase name="&lt;Chip/&gt; close action must call fireEvent.click" duration="35"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/molecules/card/hierarchytree/hierarchycard.test.js">
+    <testCase name="&lt;HierarchyTreeCard/&gt; renders HierarchyTreeCard with level=1 " duration="38"/>
+    <testCase name="&lt;HierarchyTreeCard/&gt; renders HierarchyTreeCard with level=2 " duration="5"/>
+    <testCase name="&lt;HierarchyTreeCard/&gt; renders HierarchyTreeCard with level=3 " duration="25"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/atoms/button/Button.test.js">
+    <testCase name="Button renders primary Button correctly with default props" duration="72"/>
     <testCase name="Button renders primary Button correctly with size:small, theme: dark, isPrimary:false" duration="2"/>
-    <testCase name="Button renders primary Button correctly with size:large, theme: light, isPrimary:false" duration="2"/>
+    <testCase name="Button renders primary Button correctly with size:large, theme: light, isPrimary:false" duration="26"/>
   </file>
-  <file path="/Users/ravindras/Documents/fabric/codebase/copilot-ui-library/src/atoms/empty/Empty.test.js">
-    <testCase name="&lt;Empty/&gt; renders empty placeholder" duration="60"/>
+  <file path="/Users/ravindras/Documents/ui-library/src/atoms/color/Color.test.js">
+    <testCase name="&lt;Color/&gt; renders Color component correctly" duration="55"/>
   </file>
-  <file path="/Users/ravindras/Documents/fabric/codebase/copilot-ui-library/src/organisms/header/Header.test.js">
-    <testCase name="&lt;Global Header/&gt; renders" duration="173"/>
+  <file path="/Users/ravindras/Documents/ui-library/src/atoms/empty/Empty.test.js">
+    <testCase name="&lt;Empty/&gt; renders empty placeholder" duration="78"/>
   </file>
-  <file path="/Users/ravindras/Documents/fabric/codebase/copilot-ui-library/src/organisms/modal/Modal.test.js">
-    <testCase name="&lt;Modal/&gt; render Modal component correctly" duration="88"/>
-    <testCase name="&lt;Modal/&gt; close action must call fireEvent.click" duration="12"/>
-    <testCase name="&lt;Modal/&gt; save action must call fireEvent.click" duration="5"/>
+  <file path="/Users/ravindras/Documents/ui-library/src/atoms/link/Link.test.js">
+    <testCase name="&lt;Link/&gt; renders correctly" duration="47"/>
+    <testCase name="&lt;Link/&gt; render prop values correctly" duration="6"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/atoms/popover/Popover.test.js">
+    <testCase name="&lt;Popover/&gt; renders" duration="206"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/atoms/input/Input.test.js">
+    <testCase name="&lt;Input/&gt; renders Input component" duration="99"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/molecules/card/fullaccess/fullaccesscard.test.js">
+    <testCase name="&lt;FullAccessCard/&gt; renders FullAccessCard with variant:general" duration="33"/>
+    <testCase name="&lt;FullAccessCard/&gt; renders FullAccessCard with variant:withActionItem" duration="30"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/atoms/textarea/Textarea.test.js">
+    <testCase name="&lt;Textarea/&gt; renders Input component" duration="25"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/atoms/loading/Loading.test.js">
+    <testCase name="&lt;Loading/&gt; renders loading svg" duration="12"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/molecules/flyout/Flyout.test.js">
+    <testCase name="&lt;Flyout/&gt; renders" duration="43"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/molecules/card/Card.test.js">
+    <testCase name="&lt;Card/&gt; renders Card with variant:expandable correctly " duration="41"/>
+  </file>
+  <file path="/Users/ravindras/Documents/ui-library/src/atoms/shimmer/Shimmer.test.js">
+    <testCase name="&lt;Shimmer/&gt; renders correctly" duration="58"/>
   </file>
 </testExecutions>
