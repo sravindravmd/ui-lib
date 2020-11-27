@@ -1,0 +1,27 @@
+---
+name: Tooltip
+menu: atoms
+route: /atoms/tooltip
+---
+
+import { Tooltip } from './Tooltip'
+import { Playground, Props } from 'docz'
+
+# Tooltip
+
+This component renders an HTML `<div>` as a tooltip and passes along all props.
+
+<Props of={Tooltip} />
+
+## Example Usage
+
+<Playground>
+  <div>
+		Hover over me
+		<Tooltip
+		size="large"
+		position:"right"
+	  title="Tooltip"
+	  text="tooltip text goes here"></Tooltip>
+	</div>
+</Playground>

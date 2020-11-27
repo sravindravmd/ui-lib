@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Shimmer/> renders correctly 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ aurdu"
+  >
+    <div
+      class="shimmer-item"
+    >
+      <div
+        class="sh-first shine"
+      />
+      <div
+        class="sh-second shine"
+      />
+      <div
+        class="sh-third shine"
+      />
+      <div
+        class="sh-fourth"
+      >
+        <div
+          class="sh-f-1"
+        >
+          <span
+            class=" shine"
+          />
+        </div>
+        <div
+          class="sh-f-2"
+        >
+          <div
+            class="sh-fc-1  shine"
+          />
+          <div
+            class="sh-fc-2  shine"
+          />
+        </div>
+      </div>
+      <div
+        class="sh-fourth"
+      >
+        <div
+          class="sh-f-1"
+        >
+          <span
+            class=" shine"
+          />
+        </div>
+        <div
+          class="sh-f-2"
+        >
+          <div
+            class="sh-fc-1  shine"
+          />
+          <div
+            class="sh-fc-2  shine"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Flyout/> renders 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ bhyxXU active"
+  >
+    <div
+      class="content"
+    >
+      <div
+        class="content-inner"
+      >
+        <div
+          class="sc-gsTCUz kTbkcH"
+        >
+          <ul>
+            <li>
+              <a
+                href=""
+              >
+                Item
+              </a>
+            </li>
+            <li>
+              <a
+                href=""
+              >
+                Item
+              </a>
+            </li>
+            <li>
+              <a
+                href=""
+              >
+                Item
+              </a>
+            </li>
+            <li>
+              <a
+                href=""
+              >
+                Item
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

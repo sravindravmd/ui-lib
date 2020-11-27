@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<HierarchyTreeCard/> renders HierarchyTreeCard with level=1  1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ eEhUjR"
+  >
+    <div
+      class="sc-hKgILt jzNZGF"
+      tabindex="-1"
+    >
+      <div
+        class="sc-gsTCUz ekDpYt"
+      >
+        Shirts
+      </div>
+      <div
+        class="sc-dlfnbm bMvNlL"
+      >
+        12 Subcategories
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<HierarchyTreeCard/> renders HierarchyTreeCard with level=2  1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ hGCaM"
+  >
+    <div
+      class="sc-hKgILt jzNZGF"
+      tabindex="-1"
+    >
+      <div
+        class="sc-gsTCUz cHjNND"
+      >
+        Shirts
+      </div>
+      <div
+        class="sc-dlfnbm bMvNlL"
+      >
+        12 Subcategories
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<HierarchyTreeCard/> renders HierarchyTreeCard with level=3  1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ hGCaM"
+  >
+    <div
+      class="sc-hKgILt jzNZGF"
+      tabindex="-1"
+    >
+      <div
+        class="sc-gsTCUz jmnDmG"
+      >
+        Shirts
+      </div>
+      <div
+        class="sc-dlfnbm bMvNlL"
+      >
+        12 Subcategories
+      </div>
+    </div>
+  </div>
+</div>
+`;

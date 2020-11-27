@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<RootCategoryCard/> should render RootCategoryCard after click  1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ bFqsTc"
+  >
+    <div
+      class="sc-eCssSg cqgeUx"
+      tabindex="-1"
+    >
+      <div
+        class="sc-gsTCUz kkDvDH"
+      >
+        <div
+          class="sc-dlfnbm looVed"
+        >
+          Shirts
+        </div>
+        <div
+          class="sc-hKgILt cLQdjm"
+        >
+          Updated 9/8 12:15PM PST
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<RootCategoryCard/> should render RootCategoryCard correctly  1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ rKQoS"
+  >
+    <div
+      class="sc-eCssSg cqgeUx"
+      tabindex="-1"
+    >
+      <div
+        class="sc-gsTCUz kkDvDH"
+      >
+        <div
+          class="sc-dlfnbm looVed"
+        >
+          Shirts
+        </div>
+        <div
+          class="sc-hKgILt cLQdjm"
+        >
+          Updated 9/8 12:15PM PST
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

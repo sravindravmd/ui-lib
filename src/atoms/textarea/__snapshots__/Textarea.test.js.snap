@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Textarea/> renders Input component 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ gqfcAk multiline"
+  >
+    <div
+      class="sc-gsTCUz lauUiY"
+    >
+      <label
+        class="textarea_parent"
+      >
+        <span
+          class="textarea__label"
+        >
+          Description
+        </span>
+        <div
+          class="sc-dlfnbm kYhlCE"
+        >
+          <textarea
+            maxlength="100"
+            rows="5"
+          />
+          <span
+            class="limit"
+          >
+            <span>
+              0
+            </span>
+            <span>
+              /
+              100
+            </span>
+          </span>
+        </div>
+      </label>
+    </div>
+  </div>
+</div>
+`;

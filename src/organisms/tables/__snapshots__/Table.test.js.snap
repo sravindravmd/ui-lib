@@ -1,0 +1,1792 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Table/> render Table component correctly 1`] = `
+<div>
+  <table
+    class="sc-bdfBwQ dAFCSg fabric-table test-class"
+    id="table"
+  >
+    <thead>
+      <tr>
+        <th
+          scope="col"
+        >
+          <span
+            class="header"
+          >
+            #
+          </span>
+          <span
+            class="arrow rotate180"
+          />
+        </th>
+        <th
+          scope="col"
+        >
+          <span
+            class="header"
+          >
+            Order ID
+          </span>
+          <span
+            class="arrow rotate180"
+          />
+        </th>
+        <th
+          scope="col"
+        >
+          <span
+            class="header"
+          >
+            Created
+          </span>
+          <span
+            class="arrow rotate180"
+          />
+        </th>
+        <th
+          scope="col"
+        >
+          <span
+            class="header"
+          >
+            Customer Name
+          </span>
+          <span
+            class="arrow rotate180"
+          />
+        </th>
+        <th
+          scope="col"
+        >
+          <span
+            class="header"
+          >
+            Total
+          </span>
+          <span
+            class="arrow rotate180"
+          />
+        </th>
+        <th
+          scope="col"
+        >
+          <span
+            class="header"
+          >
+            Profit
+          </span>
+          <span
+            class="arrow rotate180"
+          />
+        </th>
+        <th
+          scope="col"
+        >
+          <span
+            class="header"
+          >
+            Status
+          </span>
+          <span
+            class="arrow rotate180"
+          />
+        </th>
+        <th
+          scope="col"
+        >
+          <span
+            class="header"
+          >
+            Notes
+          </span>
+          <span
+            class="arrow rotate180"
+          />
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          1
+        </td>
+        <td>
+          01283884
+        </td>
+        <td>
+          5 min ago
+        </td>
+        <td>
+          Annebelle Sinh
+        </td>
+        <td>
+          $70 / 80%
+        </td>
+        <td>
+          $130
+        </td>
+        <td
+          class="drop-down"
+        >
+          <div
+            class="sc-bZSQDF hDohMJ"
+          >
+            <div
+              class="sc-iBaPrD cutPhb"
+            >
+              <div
+                class="content-wrapper"
+              >
+                <label
+                  class="option-label"
+                >
+                  In Progress
+                </label>
+                <div
+                  class="icon rotate0"
+                >
+                  <svg
+                    fill="none"
+                    height="7"
+                    viewBox="0 0 12 7"
+                    width="12"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M0.519346 0.527549C0.807911 0.236494 1.27804 0.235307 1.56808 0.5249L6.47801 5.42743C6.7666 5.71557 6.76778 6.18285 6.48065 6.47245C6.19209 6.76351 5.72196 6.76469 5.43192 6.4751L0.521985 1.57257C0.233403 1.28443 0.232222 0.81715 0.519346 0.527549Z"
+                      fill="#121213"
+                      fill-rule="evenodd"
+                    />
+                    <path
+                      clip-rule="evenodd"
+                      d="M11.4807 0.527549C11.1921 0.236494 10.722 0.235307 10.4319 0.5249L5.52199 5.42743C5.2334 5.71557 5.23222 6.18285 5.51935 6.47245C5.80791 6.76351 6.27804 6.76469 6.56808 6.4751L11.478 1.57257C11.7666 1.28443 11.7678 0.81715 11.4807 0.527549Z"
+                      fill="#121213"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </td>
+        <td>
+          <svg
+            fill="none"
+            height="16"
+            viewBox="0 0 16 16"
+            width="16"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="white"
+              height="14"
+              rx="1"
+              stroke="#737F8F"
+              stroke-width="1.5"
+              width="14"
+              x="1"
+              y="1"
+            />
+            <path
+              d="M5 4.3457C4.72386 4.3457 4.5 4.56956 4.5 4.8457C4.5 5.12185 4.72386 5.3457 5 5.3457V4.3457ZM11 5.3457C11.2761 5.3457 11.5 5.12185 11.5 4.8457C11.5 4.56956 11.2761 4.3457 11 4.3457V5.3457ZM5 5.3457H11V4.3457H5V5.3457Z"
+              fill="#737F8F"
+            />
+            <path
+              d="M5 7.55078C4.72386 7.55078 4.5 7.77464 4.5 8.05078C4.5 8.32692 4.72386 8.55078 5 8.55078V7.55078ZM11 8.55078C11.2761 8.55078 11.5 8.32692 11.5 8.05078C11.5 7.77464 11.2761 7.55078 11 7.55078V8.55078ZM5 8.55078H11V7.55078H5V8.55078Z"
+              fill="#737F8F"
+            />
+            <path
+              d="M5 10.7559C4.72386 10.7559 4.5 10.9797 4.5 11.2559C4.5 11.532 4.72386 11.7559 5 11.7559V10.7559ZM11 11.7559C11.2761 11.7559 11.5 11.532 11.5 11.2559C11.5 10.9797 11.2761 10.7559 11 10.7559V11.7559ZM5 11.7559H11V10.7559H5V11.7559Z"
+              fill="#737F8F"
+            />
+          </svg>
+          <span
+            class="dotes"
+            id="flyout1"
+          >
+            <svg
+              fill="none"
+              height="12"
+              viewBox="0 0 3 12"
+              width="3"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M1.5 3C2.325 3 3 2.325 3 1.5C3 0.675 2.325 0 1.5 0C0.675 0 0 0.675 0 1.5C0 2.325 0.675 3 1.5 3Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M1.5 4.5C0.675 4.5 0 5.175 0 6C0 6.825 0.675 7.5 1.5 7.5C2.325 7.5 3 6.825 3 6C3 5.175 2.325 4.5 1.5 4.5Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M1.5 9C0.675 9 0 9.675 0 10.5C0 11.325 0.675 12 1.5 12C2.325 12 3 11.325 3 10.5C3 9.675 2.325 9 1.5 9Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+          <span
+            style="position: absolute; top: 50px; z-index: 1; right: 0px;"
+          >
+            <div
+              class="sc-dOSReg hABA-DA"
+            >
+              <div
+                class="content"
+              >
+                <div
+                  class="content-inner"
+                >
+                  <div
+                    class="sc-cOajty gJneBZ"
+                  >
+                    <ul>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          2
+        </td>
+        <td>
+          01283885
+        </td>
+        <td>
+          30 min ago
+        </td>
+        <td>
+          Rayna Baptista
+        </td>
+        <td>
+          $10 / 20%
+        </td>
+        <td>
+          $40
+        </td>
+        <td
+          class="drop-down"
+        >
+          <div
+            class="sc-bZSQDF hDohMJ"
+          >
+            <div
+              class="sc-iBaPrD cutPhb"
+            >
+              <div
+                class="content-wrapper"
+              >
+                <label
+                  class="option-label"
+                >
+                  Out for Delivery
+                </label>
+                <div
+                  class="icon rotate0"
+                >
+                  <svg
+                    fill="none"
+                    height="7"
+                    viewBox="0 0 12 7"
+                    width="12"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M0.519346 0.527549C0.807911 0.236494 1.27804 0.235307 1.56808 0.5249L6.47801 5.42743C6.7666 5.71557 6.76778 6.18285 6.48065 6.47245C6.19209 6.76351 5.72196 6.76469 5.43192 6.4751L0.521985 1.57257C0.233403 1.28443 0.232222 0.81715 0.519346 0.527549Z"
+                      fill="#121213"
+                      fill-rule="evenodd"
+                    />
+                    <path
+                      clip-rule="evenodd"
+                      d="M11.4807 0.527549C11.1921 0.236494 10.722 0.235307 10.4319 0.5249L5.52199 5.42743C5.2334 5.71557 5.23222 6.18285 5.51935 6.47245C5.80791 6.76351 6.27804 6.76469 6.56808 6.4751L11.478 1.57257C11.7666 1.28443 11.7678 0.81715 11.4807 0.527549Z"
+                      fill="#121213"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </td>
+        <td>
+          <svg
+            fill="none"
+            height="16"
+            viewBox="0 0 16 16"
+            width="16"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="white"
+              height="14"
+              rx="1"
+              stroke="#737F8F"
+              stroke-width="1.5"
+              width="14"
+              x="1"
+              y="1"
+            />
+            <path
+              d="M5 4.3457C4.72386 4.3457 4.5 4.56956 4.5 4.8457C4.5 5.12185 4.72386 5.3457 5 5.3457V4.3457ZM11 5.3457C11.2761 5.3457 11.5 5.12185 11.5 4.8457C11.5 4.56956 11.2761 4.3457 11 4.3457V5.3457ZM5 5.3457H11V4.3457H5V5.3457Z"
+              fill="#737F8F"
+            />
+            <path
+              d="M5 7.55078C4.72386 7.55078 4.5 7.77464 4.5 8.05078C4.5 8.32692 4.72386 8.55078 5 8.55078V7.55078ZM11 8.55078C11.2761 8.55078 11.5 8.32692 11.5 8.05078C11.5 7.77464 11.2761 7.55078 11 7.55078V8.55078ZM5 8.55078H11V7.55078H5V8.55078Z"
+              fill="#737F8F"
+            />
+            <path
+              d="M5 10.7559C4.72386 10.7559 4.5 10.9797 4.5 11.2559C4.5 11.532 4.72386 11.7559 5 11.7559V10.7559ZM11 11.7559C11.2761 11.7559 11.5 11.532 11.5 11.2559C11.5 10.9797 11.2761 10.7559 11 10.7559V11.7559ZM5 11.7559H11V10.7559H5V11.7559Z"
+              fill="#737F8F"
+            />
+          </svg>
+          <span
+            class="dotes"
+            id="flyout2"
+          >
+            <svg
+              fill="none"
+              height="12"
+              viewBox="0 0 3 12"
+              width="3"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M1.5 3C2.325 3 3 2.325 3 1.5C3 0.675 2.325 0 1.5 0C0.675 0 0 0.675 0 1.5C0 2.325 0.675 3 1.5 3Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M1.5 4.5C0.675 4.5 0 5.175 0 6C0 6.825 0.675 7.5 1.5 7.5C2.325 7.5 3 6.825 3 6C3 5.175 2.325 4.5 1.5 4.5Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M1.5 9C0.675 9 0 9.675 0 10.5C0 11.325 0.675 12 1.5 12C2.325 12 3 11.325 3 10.5C3 9.675 2.325 9 1.5 9Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+          <span
+            style="position: absolute; top: 50px; z-index: 1; right: 0px;"
+          >
+            <div
+              class="sc-dOSReg hABA-DA"
+            >
+              <div
+                class="content"
+              >
+                <div
+                  class="content-inner"
+                >
+                  <div
+                    class="sc-cOajty gJneBZ"
+                  >
+                    <ul>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          2
+        </td>
+        <td />
+        <td>
+          42 min ago
+        </td>
+        <td>
+          Charlie Workman
+        </td>
+        <td>
+          $10 / 20%
+        </td>
+        <td>
+          $40
+        </td>
+        <td
+          class="drop-down"
+        >
+          <div
+            class="sc-bZSQDF hDohMJ"
+          >
+            <div
+              class="sc-iBaPrD cutPhb"
+            >
+              <div
+                class="content-wrapper"
+              >
+                <label
+                  class="option-label"
+                >
+                  Ready to Ship
+                </label>
+                <div
+                  class="icon rotate0"
+                >
+                  <svg
+                    fill="none"
+                    height="7"
+                    viewBox="0 0 12 7"
+                    width="12"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M0.519346 0.527549C0.807911 0.236494 1.27804 0.235307 1.56808 0.5249L6.47801 5.42743C6.7666 5.71557 6.76778 6.18285 6.48065 6.47245C6.19209 6.76351 5.72196 6.76469 5.43192 6.4751L0.521985 1.57257C0.233403 1.28443 0.232222 0.81715 0.519346 0.527549Z"
+                      fill="#121213"
+                      fill-rule="evenodd"
+                    />
+                    <path
+                      clip-rule="evenodd"
+                      d="M11.4807 0.527549C11.1921 0.236494 10.722 0.235307 10.4319 0.5249L5.52199 5.42743C5.2334 5.71557 5.23222 6.18285 5.51935 6.47245C5.80791 6.76351 6.27804 6.76469 6.56808 6.4751L11.478 1.57257C11.7666 1.28443 11.7678 0.81715 11.4807 0.527549Z"
+                      fill="#121213"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </td>
+        <td>
+          <svg
+            fill="none"
+            height="16"
+            viewBox="0 0 16 16"
+            width="16"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="white"
+              height="14"
+              rx="1"
+              stroke="#737F8F"
+              stroke-width="1.5"
+              width="14"
+              x="1"
+              y="1"
+            />
+            <path
+              d="M5 4.3457C4.72386 4.3457 4.5 4.56956 4.5 4.8457C4.5 5.12185 4.72386 5.3457 5 5.3457V4.3457ZM11 5.3457C11.2761 5.3457 11.5 5.12185 11.5 4.8457C11.5 4.56956 11.2761 4.3457 11 4.3457V5.3457ZM5 5.3457H11V4.3457H5V5.3457Z"
+              fill="#737F8F"
+            />
+            <path
+              d="M5 7.55078C4.72386 7.55078 4.5 7.77464 4.5 8.05078C4.5 8.32692 4.72386 8.55078 5 8.55078V7.55078ZM11 8.55078C11.2761 8.55078 11.5 8.32692 11.5 8.05078C11.5 7.77464 11.2761 7.55078 11 7.55078V8.55078ZM5 8.55078H11V7.55078H5V8.55078Z"
+              fill="#737F8F"
+            />
+            <path
+              d="M5 10.7559C4.72386 10.7559 4.5 10.9797 4.5 11.2559C4.5 11.532 4.72386 11.7559 5 11.7559V10.7559ZM11 11.7559C11.2761 11.7559 11.5 11.532 11.5 11.2559C11.5 10.9797 11.2761 10.7559 11 10.7559V11.7559ZM5 11.7559H11V10.7559H5V11.7559Z"
+              fill="#737F8F"
+            />
+          </svg>
+          <span
+            class="dotes"
+            id="flyout2"
+          >
+            <svg
+              fill="none"
+              height="12"
+              viewBox="0 0 3 12"
+              width="3"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M1.5 3C2.325 3 3 2.325 3 1.5C3 0.675 2.325 0 1.5 0C0.675 0 0 0.675 0 1.5C0 2.325 0.675 3 1.5 3Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M1.5 4.5C0.675 4.5 0 5.175 0 6C0 6.825 0.675 7.5 1.5 7.5C2.325 7.5 3 6.825 3 6C3 5.175 2.325 4.5 1.5 4.5Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M1.5 9C0.675 9 0 9.675 0 10.5C0 11.325 0.675 12 1.5 12C2.325 12 3 11.325 3 10.5C3 9.675 2.325 9 1.5 9Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+          <span
+            style="position: absolute; top: 50px; z-index: 1; right: 0px;"
+          >
+            <div
+              class="sc-dOSReg hABA-DA"
+            >
+              <div
+                class="content"
+              >
+                <div
+                  class="content-inner"
+                >
+                  <div
+                    class="sc-cOajty gJneBZ"
+                  >
+                    <ul>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          3
+        </td>
+        <td>
+          01283886
+        </td>
+        <td>
+          42 min ago
+        </td>
+        <td>
+          Charlie Workman
+        </td>
+        <td>
+          $10 / 20%
+        </td>
+        <td>
+          $40
+        </td>
+        <td
+          class="drop-down"
+        >
+          <div
+            class="sc-bZSQDF hDohMJ"
+          >
+            <div
+              class="sc-iBaPrD cutPhb"
+            >
+              <div
+                class="content-wrapper"
+              >
+                <label
+                  class="option-label"
+                >
+                  Ready to Ship
+                </label>
+                <div
+                  class="icon rotate0"
+                >
+                  <svg
+                    fill="none"
+                    height="7"
+                    viewBox="0 0 12 7"
+                    width="12"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M0.519346 0.527549C0.807911 0.236494 1.27804 0.235307 1.56808 0.5249L6.47801 5.42743C6.7666 5.71557 6.76778 6.18285 6.48065 6.47245C6.19209 6.76351 5.72196 6.76469 5.43192 6.4751L0.521985 1.57257C0.233403 1.28443 0.232222 0.81715 0.519346 0.527549Z"
+                      fill="#121213"
+                      fill-rule="evenodd"
+                    />
+                    <path
+                      clip-rule="evenodd"
+                      d="M11.4807 0.527549C11.1921 0.236494 10.722 0.235307 10.4319 0.5249L5.52199 5.42743C5.2334 5.71557 5.23222 6.18285 5.51935 6.47245C5.80791 6.76351 6.27804 6.76469 6.56808 6.4751L11.478 1.57257C11.7666 1.28443 11.7678 0.81715 11.4807 0.527549Z"
+                      fill="#121213"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </td>
+        <td>
+          <svg
+            fill="none"
+            height="16"
+            viewBox="0 0 16 16"
+            width="16"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="white"
+              height="14"
+              rx="1"
+              stroke="#737F8F"
+              stroke-width="1.5"
+              width="14"
+              x="1"
+              y="1"
+            />
+            <path
+              d="M5 4.3457C4.72386 4.3457 4.5 4.56956 4.5 4.8457C4.5 5.12185 4.72386 5.3457 5 5.3457V4.3457ZM11 5.3457C11.2761 5.3457 11.5 5.12185 11.5 4.8457C11.5 4.56956 11.2761 4.3457 11 4.3457V5.3457ZM5 5.3457H11V4.3457H5V5.3457Z"
+              fill="#737F8F"
+            />
+            <path
+              d="M5 7.55078C4.72386 7.55078 4.5 7.77464 4.5 8.05078C4.5 8.32692 4.72386 8.55078 5 8.55078V7.55078ZM11 8.55078C11.2761 8.55078 11.5 8.32692 11.5 8.05078C11.5 7.77464 11.2761 7.55078 11 7.55078V8.55078ZM5 8.55078H11V7.55078H5V8.55078Z"
+              fill="#737F8F"
+            />
+            <path
+              d="M5 10.7559C4.72386 10.7559 4.5 10.9797 4.5 11.2559C4.5 11.532 4.72386 11.7559 5 11.7559V10.7559ZM11 11.7559C11.2761 11.7559 11.5 11.532 11.5 11.2559C11.5 10.9797 11.2761 10.7559 11 10.7559V11.7559ZM5 11.7559H11V10.7559H5V11.7559Z"
+              fill="#737F8F"
+            />
+          </svg>
+          <span
+            class="dotes"
+            id="flyout3"
+          >
+            <svg
+              fill="none"
+              height="12"
+              viewBox="0 0 3 12"
+              width="3"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M1.5 3C2.325 3 3 2.325 3 1.5C3 0.675 2.325 0 1.5 0C0.675 0 0 0.675 0 1.5C0 2.325 0.675 3 1.5 3Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M1.5 4.5C0.675 4.5 0 5.175 0 6C0 6.825 0.675 7.5 1.5 7.5C2.325 7.5 3 6.825 3 6C3 5.175 2.325 4.5 1.5 4.5Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M1.5 9C0.675 9 0 9.675 0 10.5C0 11.325 0.675 12 1.5 12C2.325 12 3 11.325 3 10.5C3 9.675 2.325 9 1.5 9Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+          <span
+            style="position: absolute; top: 50px; z-index: 1; right: 0px;"
+          >
+            <div
+              class="sc-dOSReg hABA-DA"
+            >
+              <div
+                class="content"
+              >
+                <div
+                  class="content-inner"
+                >
+                  <div
+                    class="sc-cOajty gJneBZ"
+                  >
+                    <ul>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`<Table/> render Table correctly when isTableSortable is true 1`] = `
+<div>
+  <table
+    class="sc-bdfBwQ dAFCSg fabric-table test-class"
+    id="table"
+  >
+    <thead>
+      <tr>
+        <th
+          scope="col"
+        >
+          <span
+            class="header"
+          >
+            #
+          </span>
+          <span
+            class="arrow rotate180"
+          />
+        </th>
+        <th
+          scope="col"
+        >
+          <span
+            class="header"
+          >
+            Order ID
+          </span>
+          <span
+            class="arrow rotate180"
+          >
+            <svg
+              fill="none"
+              height="7"
+              viewBox="0 0 12 7"
+              width="12"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M0.519346 0.527549C0.807911 0.236494 1.27804 0.235307 1.56808 0.5249L6.47801 5.42743C6.7666 5.71557 6.76778 6.18285 6.48065 6.47245C6.19209 6.76351 5.72196 6.76469 5.43192 6.4751L0.521985 1.57257C0.233403 1.28443 0.232222 0.81715 0.519346 0.527549Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M11.4807 0.527549C11.1921 0.236494 10.722 0.235307 10.4319 0.5249L5.52199 5.42743C5.2334 5.71557 5.23222 6.18285 5.51935 6.47245C5.80791 6.76351 6.27804 6.76469 6.56808 6.4751L11.478 1.57257C11.7666 1.28443 11.7678 0.81715 11.4807 0.527549Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </th>
+        <th
+          scope="col"
+        >
+          <span
+            class="header"
+          >
+            Created
+          </span>
+          <span
+            class="arrow rotate180"
+          >
+            <svg
+              fill="none"
+              height="7"
+              viewBox="0 0 12 7"
+              width="12"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M0.519346 0.527549C0.807911 0.236494 1.27804 0.235307 1.56808 0.5249L6.47801 5.42743C6.7666 5.71557 6.76778 6.18285 6.48065 6.47245C6.19209 6.76351 5.72196 6.76469 5.43192 6.4751L0.521985 1.57257C0.233403 1.28443 0.232222 0.81715 0.519346 0.527549Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M11.4807 0.527549C11.1921 0.236494 10.722 0.235307 10.4319 0.5249L5.52199 5.42743C5.2334 5.71557 5.23222 6.18285 5.51935 6.47245C5.80791 6.76351 6.27804 6.76469 6.56808 6.4751L11.478 1.57257C11.7666 1.28443 11.7678 0.81715 11.4807 0.527549Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </th>
+        <th
+          scope="col"
+        >
+          <span
+            class="header"
+          >
+            Customer Name
+          </span>
+          <span
+            class="arrow rotate180"
+          >
+            <svg
+              fill="none"
+              height="7"
+              viewBox="0 0 12 7"
+              width="12"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M0.519346 0.527549C0.807911 0.236494 1.27804 0.235307 1.56808 0.5249L6.47801 5.42743C6.7666 5.71557 6.76778 6.18285 6.48065 6.47245C6.19209 6.76351 5.72196 6.76469 5.43192 6.4751L0.521985 1.57257C0.233403 1.28443 0.232222 0.81715 0.519346 0.527549Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M11.4807 0.527549C11.1921 0.236494 10.722 0.235307 10.4319 0.5249L5.52199 5.42743C5.2334 5.71557 5.23222 6.18285 5.51935 6.47245C5.80791 6.76351 6.27804 6.76469 6.56808 6.4751L11.478 1.57257C11.7666 1.28443 11.7678 0.81715 11.4807 0.527549Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </th>
+        <th
+          scope="col"
+        >
+          <span
+            class="header"
+          >
+            Total
+          </span>
+          <span
+            class="arrow rotate180"
+          >
+            <svg
+              fill="none"
+              height="7"
+              viewBox="0 0 12 7"
+              width="12"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M0.519346 0.527549C0.807911 0.236494 1.27804 0.235307 1.56808 0.5249L6.47801 5.42743C6.7666 5.71557 6.76778 6.18285 6.48065 6.47245C6.19209 6.76351 5.72196 6.76469 5.43192 6.4751L0.521985 1.57257C0.233403 1.28443 0.232222 0.81715 0.519346 0.527549Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M11.4807 0.527549C11.1921 0.236494 10.722 0.235307 10.4319 0.5249L5.52199 5.42743C5.2334 5.71557 5.23222 6.18285 5.51935 6.47245C5.80791 6.76351 6.27804 6.76469 6.56808 6.4751L11.478 1.57257C11.7666 1.28443 11.7678 0.81715 11.4807 0.527549Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </th>
+        <th
+          scope="col"
+        >
+          <span
+            class="header"
+          >
+            Profit
+          </span>
+          <span
+            class="arrow rotate180"
+          >
+            <svg
+              fill="none"
+              height="7"
+              viewBox="0 0 12 7"
+              width="12"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M0.519346 0.527549C0.807911 0.236494 1.27804 0.235307 1.56808 0.5249L6.47801 5.42743C6.7666 5.71557 6.76778 6.18285 6.48065 6.47245C6.19209 6.76351 5.72196 6.76469 5.43192 6.4751L0.521985 1.57257C0.233403 1.28443 0.232222 0.81715 0.519346 0.527549Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M11.4807 0.527549C11.1921 0.236494 10.722 0.235307 10.4319 0.5249L5.52199 5.42743C5.2334 5.71557 5.23222 6.18285 5.51935 6.47245C5.80791 6.76351 6.27804 6.76469 6.56808 6.4751L11.478 1.57257C11.7666 1.28443 11.7678 0.81715 11.4807 0.527549Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </th>
+        <th
+          scope="col"
+        >
+          <span
+            class="header"
+          >
+            Status
+          </span>
+          <span
+            class="arrow rotate180"
+          >
+            <svg
+              fill="none"
+              height="7"
+              viewBox="0 0 12 7"
+              width="12"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M0.519346 0.527549C0.807911 0.236494 1.27804 0.235307 1.56808 0.5249L6.47801 5.42743C6.7666 5.71557 6.76778 6.18285 6.48065 6.47245C6.19209 6.76351 5.72196 6.76469 5.43192 6.4751L0.521985 1.57257C0.233403 1.28443 0.232222 0.81715 0.519346 0.527549Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M11.4807 0.527549C11.1921 0.236494 10.722 0.235307 10.4319 0.5249L5.52199 5.42743C5.2334 5.71557 5.23222 6.18285 5.51935 6.47245C5.80791 6.76351 6.27804 6.76469 6.56808 6.4751L11.478 1.57257C11.7666 1.28443 11.7678 0.81715 11.4807 0.527549Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </th>
+        <th
+          scope="col"
+        >
+          <span
+            class="header"
+          >
+            Notes
+          </span>
+          <span
+            class="arrow rotate180"
+          >
+            <svg
+              fill="none"
+              height="7"
+              viewBox="0 0 12 7"
+              width="12"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M0.519346 0.527549C0.807911 0.236494 1.27804 0.235307 1.56808 0.5249L6.47801 5.42743C6.7666 5.71557 6.76778 6.18285 6.48065 6.47245C6.19209 6.76351 5.72196 6.76469 5.43192 6.4751L0.521985 1.57257C0.233403 1.28443 0.232222 0.81715 0.519346 0.527549Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M11.4807 0.527549C11.1921 0.236494 10.722 0.235307 10.4319 0.5249L5.52199 5.42743C5.2334 5.71557 5.23222 6.18285 5.51935 6.47245C5.80791 6.76351 6.27804 6.76469 6.56808 6.4751L11.478 1.57257C11.7666 1.28443 11.7678 0.81715 11.4807 0.527549Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          1
+        </td>
+        <td>
+          01283884
+        </td>
+        <td>
+          5 min ago
+        </td>
+        <td>
+          Annebelle Sinh
+        </td>
+        <td>
+          $70 / 80%
+        </td>
+        <td>
+          $130
+        </td>
+        <td
+          class="drop-down"
+        >
+          <div
+            class="sc-bZSQDF hDohMJ"
+          >
+            <div
+              class="sc-iBaPrD cutPhb"
+            >
+              <div
+                class="content-wrapper"
+              >
+                <label
+                  class="option-label"
+                >
+                  In Progress
+                </label>
+                <div
+                  class="icon rotate0"
+                >
+                  <svg
+                    fill="none"
+                    height="7"
+                    viewBox="0 0 12 7"
+                    width="12"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M0.519346 0.527549C0.807911 0.236494 1.27804 0.235307 1.56808 0.5249L6.47801 5.42743C6.7666 5.71557 6.76778 6.18285 6.48065 6.47245C6.19209 6.76351 5.72196 6.76469 5.43192 6.4751L0.521985 1.57257C0.233403 1.28443 0.232222 0.81715 0.519346 0.527549Z"
+                      fill="#121213"
+                      fill-rule="evenodd"
+                    />
+                    <path
+                      clip-rule="evenodd"
+                      d="M11.4807 0.527549C11.1921 0.236494 10.722 0.235307 10.4319 0.5249L5.52199 5.42743C5.2334 5.71557 5.23222 6.18285 5.51935 6.47245C5.80791 6.76351 6.27804 6.76469 6.56808 6.4751L11.478 1.57257C11.7666 1.28443 11.7678 0.81715 11.4807 0.527549Z"
+                      fill="#121213"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </td>
+        <td>
+          <svg
+            fill="none"
+            height="16"
+            viewBox="0 0 16 16"
+            width="16"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="white"
+              height="14"
+              rx="1"
+              stroke="#737F8F"
+              stroke-width="1.5"
+              width="14"
+              x="1"
+              y="1"
+            />
+            <path
+              d="M5 4.3457C4.72386 4.3457 4.5 4.56956 4.5 4.8457C4.5 5.12185 4.72386 5.3457 5 5.3457V4.3457ZM11 5.3457C11.2761 5.3457 11.5 5.12185 11.5 4.8457C11.5 4.56956 11.2761 4.3457 11 4.3457V5.3457ZM5 5.3457H11V4.3457H5V5.3457Z"
+              fill="#737F8F"
+            />
+            <path
+              d="M5 7.55078C4.72386 7.55078 4.5 7.77464 4.5 8.05078C4.5 8.32692 4.72386 8.55078 5 8.55078V7.55078ZM11 8.55078C11.2761 8.55078 11.5 8.32692 11.5 8.05078C11.5 7.77464 11.2761 7.55078 11 7.55078V8.55078ZM5 8.55078H11V7.55078H5V8.55078Z"
+              fill="#737F8F"
+            />
+            <path
+              d="M5 10.7559C4.72386 10.7559 4.5 10.9797 4.5 11.2559C4.5 11.532 4.72386 11.7559 5 11.7559V10.7559ZM11 11.7559C11.2761 11.7559 11.5 11.532 11.5 11.2559C11.5 10.9797 11.2761 10.7559 11 10.7559V11.7559ZM5 11.7559H11V10.7559H5V11.7559Z"
+              fill="#737F8F"
+            />
+          </svg>
+          <span
+            class="dotes"
+            id="flyout1"
+          >
+            <svg
+              fill="none"
+              height="12"
+              viewBox="0 0 3 12"
+              width="3"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M1.5 3C2.325 3 3 2.325 3 1.5C3 0.675 2.325 0 1.5 0C0.675 0 0 0.675 0 1.5C0 2.325 0.675 3 1.5 3Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M1.5 4.5C0.675 4.5 0 5.175 0 6C0 6.825 0.675 7.5 1.5 7.5C2.325 7.5 3 6.825 3 6C3 5.175 2.325 4.5 1.5 4.5Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M1.5 9C0.675 9 0 9.675 0 10.5C0 11.325 0.675 12 1.5 12C2.325 12 3 11.325 3 10.5C3 9.675 2.325 9 1.5 9Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+          <span
+            style="position: absolute; top: 50px; z-index: 1; right: 0px;"
+          >
+            <div
+              class="sc-dOSReg hABA-DA"
+            >
+              <div
+                class="content"
+              >
+                <div
+                  class="content-inner"
+                >
+                  <div
+                    class="sc-cOajty gJneBZ"
+                  >
+                    <ul>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          2
+        </td>
+        <td>
+          01283885
+        </td>
+        <td>
+          30 min ago
+        </td>
+        <td>
+          Rayna Baptista
+        </td>
+        <td>
+          $10 / 20%
+        </td>
+        <td>
+          $40
+        </td>
+        <td
+          class="drop-down"
+        >
+          <div
+            class="sc-bZSQDF hDohMJ"
+          >
+            <div
+              class="sc-iBaPrD cutPhb"
+            >
+              <div
+                class="content-wrapper"
+              >
+                <label
+                  class="option-label"
+                >
+                  Out for Delivery
+                </label>
+                <div
+                  class="icon rotate0"
+                >
+                  <svg
+                    fill="none"
+                    height="7"
+                    viewBox="0 0 12 7"
+                    width="12"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M0.519346 0.527549C0.807911 0.236494 1.27804 0.235307 1.56808 0.5249L6.47801 5.42743C6.7666 5.71557 6.76778 6.18285 6.48065 6.47245C6.19209 6.76351 5.72196 6.76469 5.43192 6.4751L0.521985 1.57257C0.233403 1.28443 0.232222 0.81715 0.519346 0.527549Z"
+                      fill="#121213"
+                      fill-rule="evenodd"
+                    />
+                    <path
+                      clip-rule="evenodd"
+                      d="M11.4807 0.527549C11.1921 0.236494 10.722 0.235307 10.4319 0.5249L5.52199 5.42743C5.2334 5.71557 5.23222 6.18285 5.51935 6.47245C5.80791 6.76351 6.27804 6.76469 6.56808 6.4751L11.478 1.57257C11.7666 1.28443 11.7678 0.81715 11.4807 0.527549Z"
+                      fill="#121213"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </td>
+        <td>
+          <svg
+            fill="none"
+            height="16"
+            viewBox="0 0 16 16"
+            width="16"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="white"
+              height="14"
+              rx="1"
+              stroke="#737F8F"
+              stroke-width="1.5"
+              width="14"
+              x="1"
+              y="1"
+            />
+            <path
+              d="M5 4.3457C4.72386 4.3457 4.5 4.56956 4.5 4.8457C4.5 5.12185 4.72386 5.3457 5 5.3457V4.3457ZM11 5.3457C11.2761 5.3457 11.5 5.12185 11.5 4.8457C11.5 4.56956 11.2761 4.3457 11 4.3457V5.3457ZM5 5.3457H11V4.3457H5V5.3457Z"
+              fill="#737F8F"
+            />
+            <path
+              d="M5 7.55078C4.72386 7.55078 4.5 7.77464 4.5 8.05078C4.5 8.32692 4.72386 8.55078 5 8.55078V7.55078ZM11 8.55078C11.2761 8.55078 11.5 8.32692 11.5 8.05078C11.5 7.77464 11.2761 7.55078 11 7.55078V8.55078ZM5 8.55078H11V7.55078H5V8.55078Z"
+              fill="#737F8F"
+            />
+            <path
+              d="M5 10.7559C4.72386 10.7559 4.5 10.9797 4.5 11.2559C4.5 11.532 4.72386 11.7559 5 11.7559V10.7559ZM11 11.7559C11.2761 11.7559 11.5 11.532 11.5 11.2559C11.5 10.9797 11.2761 10.7559 11 10.7559V11.7559ZM5 11.7559H11V10.7559H5V11.7559Z"
+              fill="#737F8F"
+            />
+          </svg>
+          <span
+            class="dotes"
+            id="flyout2"
+          >
+            <svg
+              fill="none"
+              height="12"
+              viewBox="0 0 3 12"
+              width="3"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M1.5 3C2.325 3 3 2.325 3 1.5C3 0.675 2.325 0 1.5 0C0.675 0 0 0.675 0 1.5C0 2.325 0.675 3 1.5 3Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M1.5 4.5C0.675 4.5 0 5.175 0 6C0 6.825 0.675 7.5 1.5 7.5C2.325 7.5 3 6.825 3 6C3 5.175 2.325 4.5 1.5 4.5Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M1.5 9C0.675 9 0 9.675 0 10.5C0 11.325 0.675 12 1.5 12C2.325 12 3 11.325 3 10.5C3 9.675 2.325 9 1.5 9Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+          <span
+            style="position: absolute; top: 50px; z-index: 1; right: 0px;"
+          >
+            <div
+              class="sc-dOSReg hABA-DA"
+            >
+              <div
+                class="content"
+              >
+                <div
+                  class="content-inner"
+                >
+                  <div
+                    class="sc-cOajty gJneBZ"
+                  >
+                    <ul>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          2
+        </td>
+        <td />
+        <td>
+          42 min ago
+        </td>
+        <td>
+          Charlie Workman
+        </td>
+        <td>
+          $10 / 20%
+        </td>
+        <td>
+          $40
+        </td>
+        <td
+          class="drop-down"
+        >
+          <div
+            class="sc-bZSQDF hDohMJ"
+          >
+            <div
+              class="sc-iBaPrD cutPhb"
+            >
+              <div
+                class="content-wrapper"
+              >
+                <label
+                  class="option-label"
+                >
+                  Ready to Ship
+                </label>
+                <div
+                  class="icon rotate0"
+                >
+                  <svg
+                    fill="none"
+                    height="7"
+                    viewBox="0 0 12 7"
+                    width="12"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M0.519346 0.527549C0.807911 0.236494 1.27804 0.235307 1.56808 0.5249L6.47801 5.42743C6.7666 5.71557 6.76778 6.18285 6.48065 6.47245C6.19209 6.76351 5.72196 6.76469 5.43192 6.4751L0.521985 1.57257C0.233403 1.28443 0.232222 0.81715 0.519346 0.527549Z"
+                      fill="#121213"
+                      fill-rule="evenodd"
+                    />
+                    <path
+                      clip-rule="evenodd"
+                      d="M11.4807 0.527549C11.1921 0.236494 10.722 0.235307 10.4319 0.5249L5.52199 5.42743C5.2334 5.71557 5.23222 6.18285 5.51935 6.47245C5.80791 6.76351 6.27804 6.76469 6.56808 6.4751L11.478 1.57257C11.7666 1.28443 11.7678 0.81715 11.4807 0.527549Z"
+                      fill="#121213"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </td>
+        <td>
+          <svg
+            fill="none"
+            height="16"
+            viewBox="0 0 16 16"
+            width="16"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="white"
+              height="14"
+              rx="1"
+              stroke="#737F8F"
+              stroke-width="1.5"
+              width="14"
+              x="1"
+              y="1"
+            />
+            <path
+              d="M5 4.3457C4.72386 4.3457 4.5 4.56956 4.5 4.8457C4.5 5.12185 4.72386 5.3457 5 5.3457V4.3457ZM11 5.3457C11.2761 5.3457 11.5 5.12185 11.5 4.8457C11.5 4.56956 11.2761 4.3457 11 4.3457V5.3457ZM5 5.3457H11V4.3457H5V5.3457Z"
+              fill="#737F8F"
+            />
+            <path
+              d="M5 7.55078C4.72386 7.55078 4.5 7.77464 4.5 8.05078C4.5 8.32692 4.72386 8.55078 5 8.55078V7.55078ZM11 8.55078C11.2761 8.55078 11.5 8.32692 11.5 8.05078C11.5 7.77464 11.2761 7.55078 11 7.55078V8.55078ZM5 8.55078H11V7.55078H5V8.55078Z"
+              fill="#737F8F"
+            />
+            <path
+              d="M5 10.7559C4.72386 10.7559 4.5 10.9797 4.5 11.2559C4.5 11.532 4.72386 11.7559 5 11.7559V10.7559ZM11 11.7559C11.2761 11.7559 11.5 11.532 11.5 11.2559C11.5 10.9797 11.2761 10.7559 11 10.7559V11.7559ZM5 11.7559H11V10.7559H5V11.7559Z"
+              fill="#737F8F"
+            />
+          </svg>
+          <span
+            class="dotes"
+            id="flyout2"
+          >
+            <svg
+              fill="none"
+              height="12"
+              viewBox="0 0 3 12"
+              width="3"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M1.5 3C2.325 3 3 2.325 3 1.5C3 0.675 2.325 0 1.5 0C0.675 0 0 0.675 0 1.5C0 2.325 0.675 3 1.5 3Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M1.5 4.5C0.675 4.5 0 5.175 0 6C0 6.825 0.675 7.5 1.5 7.5C2.325 7.5 3 6.825 3 6C3 5.175 2.325 4.5 1.5 4.5Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M1.5 9C0.675 9 0 9.675 0 10.5C0 11.325 0.675 12 1.5 12C2.325 12 3 11.325 3 10.5C3 9.675 2.325 9 1.5 9Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+          <span
+            style="position: absolute; top: 50px; z-index: 1; right: 0px;"
+          >
+            <div
+              class="sc-dOSReg hABA-DA"
+            >
+              <div
+                class="content"
+              >
+                <div
+                  class="content-inner"
+                >
+                  <div
+                    class="sc-cOajty gJneBZ"
+                  >
+                    <ul>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          3
+        </td>
+        <td>
+          01283886
+        </td>
+        <td>
+          42 min ago
+        </td>
+        <td>
+          Charlie Workman
+        </td>
+        <td>
+          $10 / 20%
+        </td>
+        <td>
+          $40
+        </td>
+        <td
+          class="drop-down"
+        >
+          <div
+            class="sc-bZSQDF hDohMJ"
+          >
+            <div
+              class="sc-iBaPrD cutPhb"
+            >
+              <div
+                class="content-wrapper"
+              >
+                <label
+                  class="option-label"
+                >
+                  Ready to Ship
+                </label>
+                <div
+                  class="icon rotate0"
+                >
+                  <svg
+                    fill="none"
+                    height="7"
+                    viewBox="0 0 12 7"
+                    width="12"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M0.519346 0.527549C0.807911 0.236494 1.27804 0.235307 1.56808 0.5249L6.47801 5.42743C6.7666 5.71557 6.76778 6.18285 6.48065 6.47245C6.19209 6.76351 5.72196 6.76469 5.43192 6.4751L0.521985 1.57257C0.233403 1.28443 0.232222 0.81715 0.519346 0.527549Z"
+                      fill="#121213"
+                      fill-rule="evenodd"
+                    />
+                    <path
+                      clip-rule="evenodd"
+                      d="M11.4807 0.527549C11.1921 0.236494 10.722 0.235307 10.4319 0.5249L5.52199 5.42743C5.2334 5.71557 5.23222 6.18285 5.51935 6.47245C5.80791 6.76351 6.27804 6.76469 6.56808 6.4751L11.478 1.57257C11.7666 1.28443 11.7678 0.81715 11.4807 0.527549Z"
+                      fill="#121213"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </td>
+        <td>
+          <svg
+            fill="none"
+            height="16"
+            viewBox="0 0 16 16"
+            width="16"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              fill="white"
+              height="14"
+              rx="1"
+              stroke="#737F8F"
+              stroke-width="1.5"
+              width="14"
+              x="1"
+              y="1"
+            />
+            <path
+              d="M5 4.3457C4.72386 4.3457 4.5 4.56956 4.5 4.8457C4.5 5.12185 4.72386 5.3457 5 5.3457V4.3457ZM11 5.3457C11.2761 5.3457 11.5 5.12185 11.5 4.8457C11.5 4.56956 11.2761 4.3457 11 4.3457V5.3457ZM5 5.3457H11V4.3457H5V5.3457Z"
+              fill="#737F8F"
+            />
+            <path
+              d="M5 7.55078C4.72386 7.55078 4.5 7.77464 4.5 8.05078C4.5 8.32692 4.72386 8.55078 5 8.55078V7.55078ZM11 8.55078C11.2761 8.55078 11.5 8.32692 11.5 8.05078C11.5 7.77464 11.2761 7.55078 11 7.55078V8.55078ZM5 8.55078H11V7.55078H5V8.55078Z"
+              fill="#737F8F"
+            />
+            <path
+              d="M5 10.7559C4.72386 10.7559 4.5 10.9797 4.5 11.2559C4.5 11.532 4.72386 11.7559 5 11.7559V10.7559ZM11 11.7559C11.2761 11.7559 11.5 11.532 11.5 11.2559C11.5 10.9797 11.2761 10.7559 11 10.7559V11.7559ZM5 11.7559H11V10.7559H5V11.7559Z"
+              fill="#737F8F"
+            />
+          </svg>
+          <span
+            class="dotes"
+            id="flyout3"
+          >
+            <svg
+              fill="none"
+              height="12"
+              viewBox="0 0 3 12"
+              width="3"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M1.5 3C2.325 3 3 2.325 3 1.5C3 0.675 2.325 0 1.5 0C0.675 0 0 0.675 0 1.5C0 2.325 0.675 3 1.5 3Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M1.5 4.5C0.675 4.5 0 5.175 0 6C0 6.825 0.675 7.5 1.5 7.5C2.325 7.5 3 6.825 3 6C3 5.175 2.325 4.5 1.5 4.5Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M1.5 9C0.675 9 0 9.675 0 10.5C0 11.325 0.675 12 1.5 12C2.325 12 3 11.325 3 10.5C3 9.675 2.325 9 1.5 9Z"
+                fill="#121213"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+          <span
+            style="position: absolute; top: 50px; z-index: 1; right: 0px;"
+          >
+            <div
+              class="sc-dOSReg hABA-DA"
+            >
+              <div
+                class="content"
+              >
+                <div
+                  class="content-inner"
+                >
+                  <div
+                    class="sc-cOajty gJneBZ"
+                  >
+                    <ul>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href=""
+                        >
+                          Item
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;

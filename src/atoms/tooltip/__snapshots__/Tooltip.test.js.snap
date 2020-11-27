@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Tooltip/> renders tooltip with size:large and position:bottom correctly 1`] = `
+<div
+  style="position: relative; cursor: default;"
+>
+  <div
+    class="sc-bdfBwQ sc-jSgupP iKqMIT iskboO"
+    id="1"
+  >
+    <div
+      class="sc-dlfnbm iYsaxR"
+    >
+      Tooltip
+    </div>
+    <div
+      class="sc-hKgILt eDUqGx"
+    >
+      Text for tooltip goes here and it is responsive
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Tooltip/> renders tooltip with size:large and position:right correctly 1`] = `
+<div
+  style="position: relative; cursor: default;"
+>
+  <div
+    class="sc-bdfBwQ sc-eCssSg iKqMIT fHyGHs"
+    id="1"
+  >
+    <div
+      class="sc-dlfnbm iYsaxR"
+    >
+      Tooltip
+    </div>
+    <div
+      class="sc-hKgILt eDUqGx"
+    >
+      Text for tooltip goes here and it is responsive
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Tooltip/> renders tooltip with size:small and position at cursor correctly 1`] = `
+<div
+  style="position: relative; cursor: default;"
+>
+  <div
+    class="sc-bdfBwQ sc-gsTCUz iKqMIT gfvFja"
+    id="1"
+    x="0"
+    y="0"
+  >
+    <div
+      class="sc-hKgILt eDUqGx"
+    >
+      Text for tooltip goes here and it is responsive
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Loading/> renders loading svg 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ drZfwV global"
+  >
+    <svg
+      height="44px"
+      preserveAspectRatio="xMidYMid"
+      viewBox="0 0 100 100"
+      width="44px"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <circle
+        cx="50"
+        cy="50"
+        fill="none"
+        r="40"
+        stroke="#737f8f"
+        stroke-dasharray="188.49555921538757 64.83185307179586"
+        stroke-width="10"
+      >
+        <animatetransform
+          attributeName="transform"
+          dur="1.1904761904761905s"
+          keyTimes="0;1"
+          repeatCount="indefinite"
+          type="rotate"
+          values="0 50 50;360 50 50"
+        />
+      </circle>
+    </svg>
+  </div>
+</div>
+`;

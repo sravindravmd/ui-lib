@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CarouselCard/> renders CarouselCard correctly 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ hBvqpI"
+  >
+    <div
+      class="sc-jSgupP cZTZDh"
+      tabindex="-1"
+    >
+      <img
+        alt="card-img"
+        class="sc-gsTCUz eRPChC"
+        src="https://images.unsplash.com/photo-1603881568692-1429786f5ce1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+      />
+      <div
+        class="sc-dlfnbm bbMzFp"
+      >
+        <div
+          class="sc-hKgILt bDrTGL"
+        >
+          V-neck Ruffle Top in Floral Sunset
+        </div>
+        <div
+          class="sc-eCssSg gRwfES"
+        >
+          921403392
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<CarouselCard/> should render CarouselCard after click 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ gOzfJa"
+  >
+    <div
+      class="sc-jSgupP cZTZDh"
+      tabindex="-1"
+    >
+      <img
+        alt="card-img"
+        class="sc-gsTCUz eRPChC"
+        src="https://images.unsplash.com/photo-1603881568692-1429786f5ce1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+      />
+      <div
+        class="sc-dlfnbm bbMzFp"
+      >
+        <div
+          class="sc-hKgILt bDrTGL"
+        >
+          V-neck Ruffle Top in Floral Sunset
+        </div>
+        <div
+          class="sc-eCssSg gRwfES"
+        >
+          921403392
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

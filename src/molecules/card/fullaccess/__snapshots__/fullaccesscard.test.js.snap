@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FullAccessCard/> renders FullAccessCard with variant:general 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ jiStgD"
+  >
+    <div
+      class="sc-gsTCUz lmPSxU"
+    >
+      Card
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<FullAccessCard/> renders FullAccessCard with variant:withActionItem 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ jPLiSs"
+  >
+    <div
+      class="sc-gsTCUz lmPSxU"
+    >
+      Card
+    </div>
+  </div>
+</div>
+`;

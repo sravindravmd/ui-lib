@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/Users/ravindras/Documents/fabric/codebase/copilot-ui-library/src/atoms/button/Button.test.js">
+    <testCase name="Button renders primary Button correctly with default props" duration="28"/>
+    <testCase name="Button renders primary Button correctly with size:small, theme: dark, isPrimary:false" duration="2"/>
+    <testCase name="Button renders primary Button correctly with size:large, theme: light, isPrimary:false" duration="2"/>
+  </file>
+  <file path="/Users/ravindras/Documents/fabric/codebase/copilot-ui-library/src/atoms/empty/Empty.test.js">
+    <testCase name="&lt;Empty/&gt; renders empty placeholder" duration="60"/>
+  </file>
+  <file path="/Users/ravindras/Documents/fabric/codebase/copilot-ui-library/src/organisms/header/Header.test.js">
+    <testCase name="&lt;Global Header/&gt; renders" duration="173"/>
+  </file>
+  <file path="/Users/ravindras/Documents/fabric/codebase/copilot-ui-library/src/organisms/modal/Modal.test.js">
+    <testCase name="&lt;Modal/&gt; render Modal component correctly" duration="88"/>
+    <testCase name="&lt;Modal/&gt; close action must call fireEvent.click" duration="12"/>
+    <testCase name="&lt;Modal/&gt; save action must call fireEvent.click" duration="5"/>
+  </file>
+</testExecutions>

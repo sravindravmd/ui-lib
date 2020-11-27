@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Empty/> renders empty placeholder 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ hxWtuT empty"
+  >
+    <div
+      class="empty-inner"
+    >
+      <div
+        class="primary-text"
+      >
+        You have no master hierarchy
+      </div>
+      <div
+        class="secondary-text"
+      >
+        Start by adding your master h’s and add
+any published h’s
+      </div>
+      <div
+        class="button-block"
+      >
+        <button
+          class="sc-gsTCUz gTkrDu"
+        >
+          Import Master hierarchy
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

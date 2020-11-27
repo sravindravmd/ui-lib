@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Radio/> renders 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ kVxuYK"
+    id="radio"
+  >
+    <input
+      checked=""
+      class="radio-input"
+      id="1"
+      name="default"
+      tabindex="0"
+      type="radio"
+      value="default"
+    />
+    <label
+      class="radio-label"
+      for="1"
+    >
+      <span
+        class="circle"
+      />
+      <span
+        class="label"
+      >
+        Radio Label
+      </span>
+    </label>
+  </div>
+</div>
+`;

@@ -1,0 +1,1751 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Calendar/> should render Calendar correctly 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ bQjApy"
+  >
+    <div
+      class="react-datepicker-wrapper"
+    >
+      <div
+        class="react-datepicker__input-container"
+      >
+        <input
+          class="react-datepicker-ignore-onclickoutside"
+          type="text"
+          value="10/10/2020"
+        />
+      </div>
+    </div>
+    <div
+      class="react-datepicker__tab-loop"
+    >
+      <div
+        class="react-datepicker__tab-loop__start"
+        tabindex="0"
+      />
+      <div
+        class="react-datepicker-popper"
+        style="position: absolute; top: 0px; left: 0px; opacity: 0; pointer-events: none;"
+      >
+        <div>
+          <div
+            class="react-datepicker"
+          >
+            <div
+              class="react-datepicker__triangle"
+            />
+            <div
+              class="react-datepicker__month-container"
+            >
+              <div
+                class="react-datepicker__header react-datepicker__header--custom"
+              >
+                <div
+                  class="sc-gsTCUz gxLckE"
+                >
+                  <div
+                    class="sc-eCssSg hmDzWJ"
+                    data-testid="decrement-year"
+                  >
+                    <svg
+                      class="left-arrow"
+                      fill="none"
+                      height="16"
+                      viewBox="0 0 16 16"
+                      width="16"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M11.3096 3.30975C11.6025 3.01686 11.6025 2.54198 11.3096 2.24909C11.0167 1.9562 10.5419 1.9562 10.249 2.24909L11.3096 3.30975ZM4.749 7.74905C4.45611 8.04194 4.45611 8.51682 4.749 8.80971C5.0419 9.1026 5.51677 9.10261 5.80966 8.80971L4.749 7.74905ZM10.249 2.24909L4.749 7.74905L5.80966 8.80971L11.3096 3.30975L10.249 2.24909Z"
+                        fill="#121213"
+                      />
+                      <path
+                        d="M10.1902 14.251C10.4831 14.5439 10.958 14.5439 11.2509 14.251C11.5438 13.9581 11.5438 13.4833 11.2509 13.1904L10.1902 14.251ZM5.8094 7.74874C5.51651 7.45584 5.04164 7.45584 4.74874 7.74873C4.45585 8.04162 4.45584 8.51649 4.74873 8.80939L5.8094 7.74874ZM11.2509 13.1904L5.8094 7.74874L4.74873 8.80939L10.1902 14.251L11.2509 13.1904Z"
+                        fill="#121213"
+                      />
+                    </svg>
+                  </div>
+                  <div
+                    class="sc-dlfnbm hRTsJc"
+                  >
+                    <label
+                      data-testid="year-title"
+                    >
+                      Oct 2020
+                    </label>
+                    <div
+                      class="sc-hKgILt kihuVR"
+                    >
+                      <svg
+                        class="white-arrow"
+                        fill="none"
+                        height="5"
+                        viewBox="0 0 8 5"
+                        width="8"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M0.707105 1.70711C0.0771402 1.07714 0.523309 0 1.41421 0L6.58579 0C7.47669 0 7.92286 1.07714 7.29289 1.70711L4.70711 4.29289C4.31658 4.68342 3.68342 4.68342 3.29289 4.29289L0.707105 1.70711Z"
+                          fill="white"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                  <div
+                    class="sc-eCssSg hmDzWJ"
+                    data-testid="increment-year"
+                  >
+                    <svg
+                      class="right-arrow"
+                      fill="none"
+                      height="16"
+                      viewBox="0 0 16 16"
+                      width="16"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M4.74897 13.1903C4.45607 13.4831 4.45607 13.958 4.74897 14.2509C5.04186 14.5438 5.51673 14.5438 5.80963 14.2509L4.74897 13.1903ZM11.3096 8.75095C11.6025 8.45805 11.6025 7.98318 11.3096 7.69029C11.0167 7.39739 10.5418 7.39739 10.2489 7.69029L11.3096 8.75095ZM5.80963 14.2509L11.3096 8.75095L10.2489 7.69029L4.74897 13.1903L5.80963 14.2509Z"
+                        fill="#121213"
+                      />
+                      <path
+                        d="M5.86835 2.24897C5.57546 1.95608 5.10058 1.95607 4.80769 2.24896C4.51479 2.54185 4.51479 3.01672 4.80768 3.30962L5.86835 2.24897ZM10.2492 8.75126C10.5421 9.04416 11.017 9.04416 11.3099 8.75127C11.6027 8.45838 11.6028 7.98351 11.3099 7.69061L10.2492 8.75126ZM4.80768 3.30962L10.2492 8.75126L11.3099 7.69061L5.86835 2.24897L4.80768 3.30962Z"
+                        fill="#121213"
+                      />
+                    </svg>
+                  </div>
+                </div>
+                <div
+                  class="react-datepicker__day-names"
+                >
+                  <div
+                    class="react-datepicker__day-name"
+                  >
+                    Mon
+                  </div>
+                  <div
+                    class="react-datepicker__day-name"
+                  >
+                    Tue
+                  </div>
+                  <div
+                    class="react-datepicker__day-name"
+                  >
+                    Wed
+                  </div>
+                  <div
+                    class="react-datepicker__day-name"
+                  >
+                    Thu 
+                  </div>
+                  <div
+                    class="react-datepicker__day-name"
+                  >
+                    Fri
+                  </div>
+                  <div
+                    class="react-datepicker__day-name"
+                  >
+                    Sat
+                  </div>
+                  <div
+                    class="react-datepicker__day-name"
+                  >
+                    Sun
+                  </div>
+                </div>
+              </div>
+              <div
+                aria-label="month  2020-10"
+                class="react-datepicker__month"
+              >
+                <div
+                  class="react-datepicker__week"
+                >
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Monday, 28 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--028 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    28
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Tuesday, 29 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--029 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    29
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Wednesday, 30 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--030 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    30
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Thursday, 1 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--001"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    1
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Friday, 2 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--002"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    2
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Saturday, 3 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--003 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    3
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Sunday, 4 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--004 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    4
+                  </div>
+                </div>
+                <div
+                  class="react-datepicker__week"
+                >
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Monday, 5 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--005"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    5
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Tuesday, 6 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--006"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    6
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Wednesday, 7 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--007"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    7
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Thursday, 8 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--008"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    8
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Friday, 9 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--009"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    9
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Saturday, 10 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--010 react-datepicker__day--selected react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="0"
+                  >
+                    10
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Sunday, 11 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--011 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    11
+                  </div>
+                </div>
+                <div
+                  class="react-datepicker__week"
+                >
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Monday, 12 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--012"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    12
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Tuesday, 13 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--013"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    13
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Wednesday, 14 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--014"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    14
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Thursday, 15 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--015"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    15
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Friday, 16 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--016"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    16
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Saturday, 17 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--017 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    17
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Sunday, 18 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--018 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    18
+                  </div>
+                </div>
+                <div
+                  class="react-datepicker__week"
+                >
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Monday, 19 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--019"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    19
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Tuesday, 20 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--020"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    20
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Wednesday, 21 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--021"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    21
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Thursday, 22 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--022"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    22
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Friday, 23 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--023"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    23
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Saturday, 24 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--024 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    24
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Sunday, 25 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--025 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    25
+                  </div>
+                </div>
+                <div
+                  class="react-datepicker__week"
+                >
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Monday, 26 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--026"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    26
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Tuesday, 27 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--027"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    27
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Wednesday, 28 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--028"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    28
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Thursday, 29 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--029"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    29
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Friday, 30 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--030"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    30
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Saturday, 31 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--031 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    31
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Sunday, 1 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--001 react-datepicker__day--weekend react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    1
+                  </div>
+                </div>
+                <div
+                  class="react-datepicker__week"
+                >
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Monday, 2 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--002 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    2
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Tuesday, 3 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--003 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    3
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Wednesday, 4 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--004 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    4
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Thursday, 5 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--005 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    5
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Friday, 6 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--006 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    6
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Saturday, 7 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--007 react-datepicker__day--weekend react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    7
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Sunday, 8 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--008 react-datepicker__day--weekend react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    8
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="react-datepicker__tab-loop__end"
+        tabindex="0"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Calendar/> should render Calendar input correctly 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ bQjApy"
+  >
+    <div
+      class="react-datepicker-wrapper"
+    >
+      <div
+        class="react-datepicker__input-container"
+      >
+        <input
+          class=""
+          type="text"
+          value="10/10/2020"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Calendar/> should render Calendar with next month correctly 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ bQjApy"
+  >
+    <div
+      class="react-datepicker-wrapper"
+    >
+      <div
+        class="react-datepicker__input-container"
+      >
+        <input
+          class="react-datepicker-ignore-onclickoutside"
+          type="text"
+          value="10/10/2020"
+        />
+      </div>
+    </div>
+    <div
+      class="react-datepicker__tab-loop"
+    >
+      <div
+        class="react-datepicker__tab-loop__start"
+        tabindex="0"
+      />
+      <div
+        class="react-datepicker-popper"
+        style="position: absolute; top: 0px; left: 0px; opacity: 0; pointer-events: none;"
+      >
+        <div>
+          <div
+            class="react-datepicker"
+          >
+            <div
+              class="react-datepicker__triangle"
+            />
+            <div
+              class="react-datepicker__month-container"
+            >
+              <div
+                class="react-datepicker__header react-datepicker__header--custom"
+              >
+                <div
+                  class="sc-gsTCUz gxLckE"
+                >
+                  <div
+                    class="sc-eCssSg hmDzWJ"
+                    data-testid="decrement-year"
+                  >
+                    <svg
+                      class="left-arrow"
+                      fill="none"
+                      height="16"
+                      viewBox="0 0 16 16"
+                      width="16"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M11.3096 3.30975C11.6025 3.01686 11.6025 2.54198 11.3096 2.24909C11.0167 1.9562 10.5419 1.9562 10.249 2.24909L11.3096 3.30975ZM4.749 7.74905C4.45611 8.04194 4.45611 8.51682 4.749 8.80971C5.0419 9.1026 5.51677 9.10261 5.80966 8.80971L4.749 7.74905ZM10.249 2.24909L4.749 7.74905L5.80966 8.80971L11.3096 3.30975L10.249 2.24909Z"
+                        fill="#121213"
+                      />
+                      <path
+                        d="M10.1902 14.251C10.4831 14.5439 10.958 14.5439 11.2509 14.251C11.5438 13.9581 11.5438 13.4833 11.2509 13.1904L10.1902 14.251ZM5.8094 7.74874C5.51651 7.45584 5.04164 7.45584 4.74874 7.74873C4.45585 8.04162 4.45584 8.51649 4.74873 8.80939L5.8094 7.74874ZM11.2509 13.1904L5.8094 7.74874L4.74873 8.80939L10.1902 14.251L11.2509 13.1904Z"
+                        fill="#121213"
+                      />
+                    </svg>
+                  </div>
+                  <div
+                    class="sc-dlfnbm hRTsJc"
+                  >
+                    <label
+                      data-testid="year-title"
+                    >
+                      Nov 2020
+                    </label>
+                    <div
+                      class="sc-hKgILt kihuVR"
+                    >
+                      <svg
+                        class="white-arrow"
+                        fill="none"
+                        height="5"
+                        viewBox="0 0 8 5"
+                        width="8"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M0.707105 1.70711C0.0771402 1.07714 0.523309 0 1.41421 0L6.58579 0C7.47669 0 7.92286 1.07714 7.29289 1.70711L4.70711 4.29289C4.31658 4.68342 3.68342 4.68342 3.29289 4.29289L0.707105 1.70711Z"
+                          fill="white"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                  <div
+                    class="sc-eCssSg hmDzWJ"
+                    data-testid="increment-year"
+                  >
+                    <svg
+                      class="right-arrow"
+                      fill="none"
+                      height="16"
+                      viewBox="0 0 16 16"
+                      width="16"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M4.74897 13.1903C4.45607 13.4831 4.45607 13.958 4.74897 14.2509C5.04186 14.5438 5.51673 14.5438 5.80963 14.2509L4.74897 13.1903ZM11.3096 8.75095C11.6025 8.45805 11.6025 7.98318 11.3096 7.69029C11.0167 7.39739 10.5418 7.39739 10.2489 7.69029L11.3096 8.75095ZM5.80963 14.2509L11.3096 8.75095L10.2489 7.69029L4.74897 13.1903L5.80963 14.2509Z"
+                        fill="#121213"
+                      />
+                      <path
+                        d="M5.86835 2.24897C5.57546 1.95608 5.10058 1.95607 4.80769 2.24896C4.51479 2.54185 4.51479 3.01672 4.80768 3.30962L5.86835 2.24897ZM10.2492 8.75126C10.5421 9.04416 11.017 9.04416 11.3099 8.75127C11.6027 8.45838 11.6028 7.98351 11.3099 7.69061L10.2492 8.75126ZM4.80768 3.30962L10.2492 8.75126L11.3099 7.69061L5.86835 2.24897L4.80768 3.30962Z"
+                        fill="#121213"
+                      />
+                    </svg>
+                  </div>
+                </div>
+                <div
+                  class="react-datepicker__day-names"
+                >
+                  <div
+                    class="react-datepicker__day-name"
+                  >
+                    Mon
+                  </div>
+                  <div
+                    class="react-datepicker__day-name"
+                  >
+                    Tue
+                  </div>
+                  <div
+                    class="react-datepicker__day-name"
+                  >
+                    Wed
+                  </div>
+                  <div
+                    class="react-datepicker__day-name"
+                  >
+                    Thu 
+                  </div>
+                  <div
+                    class="react-datepicker__day-name"
+                  >
+                    Fri
+                  </div>
+                  <div
+                    class="react-datepicker__day-name"
+                  >
+                    Sat
+                  </div>
+                  <div
+                    class="react-datepicker__day-name"
+                  >
+                    Sun
+                  </div>
+                </div>
+              </div>
+              <div
+                aria-label="month  2020-11"
+                class="react-datepicker__month"
+              >
+                <div
+                  class="react-datepicker__week"
+                >
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Monday, 26 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--026 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    26
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Tuesday, 27 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--027 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    27
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Wednesday, 28 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--028 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    28
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Thursday, 29 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--029 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    29
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Friday, 30 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--030 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    30
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Saturday, 31 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--031 react-datepicker__day--weekend react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    31
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Sunday, 1 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--001 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    1
+                  </div>
+                </div>
+                <div
+                  class="react-datepicker__week"
+                >
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Monday, 2 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--002"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    2
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Tuesday, 3 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--003"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    3
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Wednesday, 4 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--004"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    4
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Thursday, 5 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--005"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    5
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Friday, 6 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--006"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    6
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Saturday, 7 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--007 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    7
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Sunday, 8 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--008 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    8
+                  </div>
+                </div>
+                <div
+                  class="react-datepicker__week"
+                >
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Monday, 9 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--009"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    9
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Tuesday, 10 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--010 react-datepicker__day--keyboard-selected"
+                    role="button"
+                    tabindex="0"
+                  >
+                    10
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Wednesday, 11 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--011"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    11
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Thursday, 12 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--012"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    12
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Friday, 13 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--013"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    13
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Saturday, 14 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--014 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    14
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Sunday, 15 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--015 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    15
+                  </div>
+                </div>
+                <div
+                  class="react-datepicker__week"
+                >
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Monday, 16 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--016"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    16
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Tuesday, 17 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--017"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    17
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Wednesday, 18 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--018"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    18
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Thursday, 19 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--019"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    19
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Friday, 20 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--020"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    20
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Saturday, 21 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--021 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    21
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Sunday, 22 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--022 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    22
+                  </div>
+                </div>
+                <div
+                  class="react-datepicker__week"
+                >
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Monday, 23 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--023"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    23
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Tuesday, 24 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--024"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    24
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Wednesday, 25 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--025"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    25
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Thursday, 26 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--026 react-datepicker__day--today"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    26
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Friday, 27 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--027"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    27
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Saturday, 28 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--028 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    28
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Sunday, 29 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--029 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    29
+                  </div>
+                </div>
+                <div
+                  class="react-datepicker__week"
+                >
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Monday, 30 November 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--030"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    30
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Tuesday, 1 December 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--001 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    1
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Wednesday, 2 December 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--002 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    2
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Thursday, 3 December 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--003 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    3
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Friday, 4 December 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--004 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    4
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Saturday, 5 December 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--005 react-datepicker__day--weekend react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    5
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Sunday, 6 December 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--006 react-datepicker__day--weekend react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    6
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="react-datepicker__tab-loop__end"
+        tabindex="0"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Calendar/> should render Calendar with previous month correctly 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ bQjApy"
+  >
+    <div
+      class="react-datepicker-wrapper"
+    >
+      <div
+        class="react-datepicker__input-container"
+      >
+        <input
+          class="react-datepicker-ignore-onclickoutside"
+          type="text"
+          value="10/10/2020"
+        />
+      </div>
+    </div>
+    <div
+      class="react-datepicker__tab-loop"
+    >
+      <div
+        class="react-datepicker__tab-loop__start"
+        tabindex="0"
+      />
+      <div
+        class="react-datepicker-popper"
+        style="position: absolute; top: 0px; left: 0px; opacity: 0; pointer-events: none;"
+      >
+        <div>
+          <div
+            class="react-datepicker"
+          >
+            <div
+              class="react-datepicker__triangle"
+            />
+            <div
+              class="react-datepicker__month-container"
+            >
+              <div
+                class="react-datepicker__header react-datepicker__header--custom"
+              >
+                <div
+                  class="sc-gsTCUz gxLckE"
+                >
+                  <div
+                    class="sc-eCssSg hmDzWJ"
+                    data-testid="decrement-year"
+                  >
+                    <svg
+                      class="left-arrow"
+                      fill="none"
+                      height="16"
+                      viewBox="0 0 16 16"
+                      width="16"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M11.3096 3.30975C11.6025 3.01686 11.6025 2.54198 11.3096 2.24909C11.0167 1.9562 10.5419 1.9562 10.249 2.24909L11.3096 3.30975ZM4.749 7.74905C4.45611 8.04194 4.45611 8.51682 4.749 8.80971C5.0419 9.1026 5.51677 9.10261 5.80966 8.80971L4.749 7.74905ZM10.249 2.24909L4.749 7.74905L5.80966 8.80971L11.3096 3.30975L10.249 2.24909Z"
+                        fill="#121213"
+                      />
+                      <path
+                        d="M10.1902 14.251C10.4831 14.5439 10.958 14.5439 11.2509 14.251C11.5438 13.9581 11.5438 13.4833 11.2509 13.1904L10.1902 14.251ZM5.8094 7.74874C5.51651 7.45584 5.04164 7.45584 4.74874 7.74873C4.45585 8.04162 4.45584 8.51649 4.74873 8.80939L5.8094 7.74874ZM11.2509 13.1904L5.8094 7.74874L4.74873 8.80939L10.1902 14.251L11.2509 13.1904Z"
+                        fill="#121213"
+                      />
+                    </svg>
+                  </div>
+                  <div
+                    class="sc-dlfnbm hRTsJc"
+                  >
+                    <label
+                      data-testid="year-title"
+                    >
+                      Sept 2020
+                    </label>
+                    <div
+                      class="sc-hKgILt kihuVR"
+                    >
+                      <svg
+                        class="white-arrow"
+                        fill="none"
+                        height="5"
+                        viewBox="0 0 8 5"
+                        width="8"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M0.707105 1.70711C0.0771402 1.07714 0.523309 0 1.41421 0L6.58579 0C7.47669 0 7.92286 1.07714 7.29289 1.70711L4.70711 4.29289C4.31658 4.68342 3.68342 4.68342 3.29289 4.29289L0.707105 1.70711Z"
+                          fill="white"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                  <div
+                    class="sc-eCssSg hmDzWJ"
+                    data-testid="increment-year"
+                  >
+                    <svg
+                      class="right-arrow"
+                      fill="none"
+                      height="16"
+                      viewBox="0 0 16 16"
+                      width="16"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M4.74897 13.1903C4.45607 13.4831 4.45607 13.958 4.74897 14.2509C5.04186 14.5438 5.51673 14.5438 5.80963 14.2509L4.74897 13.1903ZM11.3096 8.75095C11.6025 8.45805 11.6025 7.98318 11.3096 7.69029C11.0167 7.39739 10.5418 7.39739 10.2489 7.69029L11.3096 8.75095ZM5.80963 14.2509L11.3096 8.75095L10.2489 7.69029L4.74897 13.1903L5.80963 14.2509Z"
+                        fill="#121213"
+                      />
+                      <path
+                        d="M5.86835 2.24897C5.57546 1.95608 5.10058 1.95607 4.80769 2.24896C4.51479 2.54185 4.51479 3.01672 4.80768 3.30962L5.86835 2.24897ZM10.2492 8.75126C10.5421 9.04416 11.017 9.04416 11.3099 8.75127C11.6027 8.45838 11.6028 7.98351 11.3099 7.69061L10.2492 8.75126ZM4.80768 3.30962L10.2492 8.75126L11.3099 7.69061L5.86835 2.24897L4.80768 3.30962Z"
+                        fill="#121213"
+                      />
+                    </svg>
+                  </div>
+                </div>
+                <div
+                  class="react-datepicker__day-names"
+                >
+                  <div
+                    class="react-datepicker__day-name"
+                  >
+                    Mon
+                  </div>
+                  <div
+                    class="react-datepicker__day-name"
+                  >
+                    Tue
+                  </div>
+                  <div
+                    class="react-datepicker__day-name"
+                  >
+                    Wed
+                  </div>
+                  <div
+                    class="react-datepicker__day-name"
+                  >
+                    Thu 
+                  </div>
+                  <div
+                    class="react-datepicker__day-name"
+                  >
+                    Fri
+                  </div>
+                  <div
+                    class="react-datepicker__day-name"
+                  >
+                    Sat
+                  </div>
+                  <div
+                    class="react-datepicker__day-name"
+                  >
+                    Sun
+                  </div>
+                </div>
+              </div>
+              <div
+                aria-label="month  2020-09"
+                class="react-datepicker__month"
+              >
+                <div
+                  class="react-datepicker__week"
+                >
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Monday, 31 August 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--031 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    31
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Tuesday, 1 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--001"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    1
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Wednesday, 2 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--002"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    2
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Thursday, 3 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--003"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    3
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Friday, 4 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--004"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    4
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Saturday, 5 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--005 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    5
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Sunday, 6 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--006 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    6
+                  </div>
+                </div>
+                <div
+                  class="react-datepicker__week"
+                >
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Monday, 7 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--007"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    7
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Tuesday, 8 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--008"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    8
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Wednesday, 9 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--009"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    9
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Thursday, 10 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--010 react-datepicker__day--keyboard-selected"
+                    role="button"
+                    tabindex="0"
+                  >
+                    10
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Friday, 11 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--011"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    11
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Saturday, 12 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--012 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    12
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Sunday, 13 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--013 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    13
+                  </div>
+                </div>
+                <div
+                  class="react-datepicker__week"
+                >
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Monday, 14 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--014"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    14
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Tuesday, 15 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--015"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    15
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Wednesday, 16 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--016"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    16
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Thursday, 17 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--017"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    17
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Friday, 18 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--018"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    18
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Saturday, 19 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--019 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    19
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Sunday, 20 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--020 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    20
+                  </div>
+                </div>
+                <div
+                  class="react-datepicker__week"
+                >
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Monday, 21 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--021"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    21
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Tuesday, 22 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--022"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    22
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Wednesday, 23 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--023"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    23
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Thursday, 24 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--024"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    24
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Friday, 25 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--025"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    25
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Saturday, 26 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--026 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    26
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Sunday, 27 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--027 react-datepicker__day--weekend"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    27
+                  </div>
+                </div>
+                <div
+                  class="react-datepicker__week"
+                >
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Monday, 28 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--028"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    28
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Tuesday, 29 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--029"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    29
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Wednesday, 30 September 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--030"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    30
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Thursday, 1 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--001 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    1
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Friday, 2 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--002 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    2
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Saturday, 3 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--003 react-datepicker__day--weekend react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    3
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Sunday, 4 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--004 react-datepicker__day--weekend react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    4
+                  </div>
+                </div>
+                <div
+                  class="react-datepicker__week"
+                >
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Monday, 5 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--005 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    5
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Tuesday, 6 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--006 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    6
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Wednesday, 7 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--007 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    7
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Thursday, 8 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--008 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    8
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Friday, 9 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--009 react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    9
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Saturday, 10 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--010 react-datepicker__day--selected react-datepicker__day--weekend react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    10
+                  </div>
+                  <div
+                    aria-disabled="false"
+                    aria-label="Choose Sunday, 11 October 2020"
+                    class="react-datepicker__day day-padding react-datepicker__day--011 react-datepicker__day--weekend react-datepicker__day--outside-month"
+                    role="button"
+                    tabindex="-1"
+                  >
+                    11
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="react-datepicker__tab-loop__end"
+        tabindex="0"
+      />
+    </div>
+  </div>
+</div>
+`;

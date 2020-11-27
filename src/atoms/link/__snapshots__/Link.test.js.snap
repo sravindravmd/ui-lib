@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Link/> renders correctly 1`] = `
+<div>
+  <a
+    class="sc-bdfBwQ fZAsUk"
+    href="/"
+  >
+    I am a Link
+  </a>
+</div>
+`;

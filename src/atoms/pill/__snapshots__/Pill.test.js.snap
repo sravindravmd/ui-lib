@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Pill/> renders Pill component with variant:alert correctly 1`] = `
+<div>
+  <span
+    class="sc-bdfBwQ gPJauu"
+  >
+    Pill Label
+  </span>
+</div>
+`;
+
+exports[`<Pill/> renders Pill component with variant:success correctly 1`] = `
+<div>
+  <span
+    class="sc-bdfBwQ wQEWy"
+  >
+    Pill Label
+  </span>
+</div>
+`;
+
+exports[`<Pill/> renders Pill component with variant:warning correctly 1`] = `
+<div>
+  <span
+    class="sc-bdfBwQ jHAFYG"
+  >
+    Pill Label
+  </span>
+</div>
+`;

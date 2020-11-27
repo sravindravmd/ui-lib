@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Switch/> renders Switch with initialState:false correctly 1`] = `
+<div>
+  <label
+    class="sc-bdfBwQ jKsLgj"
+  >
+    <span
+      class="sc-gsTCUz edZUkl"
+    >
+      <input
+        class="sc-dlfnbm lcKuwO"
+        data-testid="toggle"
+        type="checkbox"
+        value="false"
+      />
+      <span
+        class="sc-hKgILt iYTDUb"
+      />
+    </span>
+    <span
+      class="sc-eCssSg bddYCL"
+    >
+      Label
+    </span>
+  </label>
+</div>
+`;
+
+exports[`<Switch/> renders Switch with initialState:true correctly 1`] = `
+<div>
+  <label
+    class="sc-bdfBwQ jKsLgj"
+  >
+    <span
+      class="sc-gsTCUz edZUkl"
+    >
+      <input
+        checked=""
+        class="sc-dlfnbm lcKuwO"
+        data-testid="toggle"
+        type="checkbox"
+        value="true"
+      />
+      <span
+        class="sc-hKgILt bnRFyi"
+      />
+    </span>
+    <span
+      class="sc-eCssSg bddYCL"
+    >
+      Label
+    </span>
+  </label>
+</div>
+`;

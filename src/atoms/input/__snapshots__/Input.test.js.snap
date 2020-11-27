@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Input/> renders Input component 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ ijWDRM primary"
+  >
+    <div
+      class="sc-gsTCUz fDhWiz"
+    >
+      <label
+        class="input_parent"
+      >
+        <span
+          class="input__label"
+        >
+          Field Label
+        </span>
+        <div
+          class="input__wrapper"
+        >
+          <input
+            class="sc-dlfnbm juDBAJ"
+            placeholder="Text"
+            value=""
+          />
+        </div>
+      </label>
+    </div>
+  </div>
+</div>
+`;

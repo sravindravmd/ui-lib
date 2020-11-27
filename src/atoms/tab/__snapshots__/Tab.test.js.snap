@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Tab/> renders horizontal tab correctly 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ dmxWwQ"
+  >
+    <div
+      class="sc-gsTCUz jpQJtI"
+    >
+      ALL Items
+    </div>
+    <div
+      class="sc-dlfnbm btJzNe"
+    >
+      <div
+        class="sc-hKgILt bfibsu"
+      >
+        Performance
+      </div>
+      <div
+        class="sc-hKgILt ffkWqa"
+      >
+        Recent Activity
+      </div>
+    </div>
+    <div
+      title=""
+    >
+      performance
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Tab/> renders horizontal tab with TabItem disabled 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ dmxWwQ"
+  >
+    <div
+      class="sc-gsTCUz jpQJtI"
+    >
+      Tooltip
+    </div>
+    <div
+      class="sc-dlfnbm btJzNe"
+    >
+      <div
+        class="sc-hKgILt jmKVQt"
+        disabled=""
+      >
+        Performance
+      </div>
+      <div
+        class="sc-hKgILt ffkWqa"
+      >
+        Recent Activity
+      </div>
+    </div>
+    <div
+      disabled=""
+      title=""
+    >
+      performance
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Tab/> renders vertical tab correctly 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ kvrjgw"
+  >
+    <div
+      class="sc-dlfnbm frgbOH"
+    >
+      <div
+        class="sc-hKgILt cpnLtq"
+      >
+        <span>
+          Performance
+        </span>
+      </div>
+      <div
+        class="sc-hKgILt gdkngY"
+      >
+        <span>
+          Recent Activity
+        </span>
+      </div>
+    </div>
+    <div
+      title=""
+    >
+      performance
+    </div>
+  </div>
+</div>
+`;

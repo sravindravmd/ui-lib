@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Popover/> renders 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ fdfKNF   bottom"
+  >
+    <div
+      class="content"
+    >
+      <div
+        class="content-inner"
+      >
+        <div
+          class="sc-gsTCUz hcTIIe"
+        >
+          <div
+            class="header"
+          >
+            <div
+              class="avtar"
+            >
+              <span />
+            </div>
+            <div
+              class="title"
+            >
+              <strong>
+                Tiffany Doe
+              </strong>
+              <p>
+                tiffany.doe@jcrew.com
+              </p>
+            </div>
+          </div>
+          <ul>
+            <li>
+              <a
+                href=""
+              >
+                Edit Profile
+              </a>
+            </li>
+            <li>
+              <a
+                href=""
+              >
+                Preferences
+              </a>
+            </li>
+            <li>
+              <a
+                href=""
+              >
+                Logout
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,26 @@
+---
+name: Chip
+menu: atoms
+route: /atoms/chip
+---
+
+import { Chip } from './Chip'
+import { Playground, Props } from 'docz'
+
+# Chip
+
+This component renders a chip and passes along all props.
+
+<Props of={Chip} />
+
+## Example Usage
+
+<Playground>
+<Chip
+ key="chip"
+ uid="chip"
+ text="Chip Label"
+ onClose={()=>alert('Hey')}/>
+
+
+</Playground>
